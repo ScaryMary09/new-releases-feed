@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-10-02",
+ "updated": "2026-10-05",
  "genres": [
   "Horror",
   "Gothic",
@@ -1909,6 +1909,31 @@
    ]
   },
   {
+   "id": "9780765389039",
+   "work": "h2509265",
+   "title": "Monsters of Ohio",
+   "subtitle": null,
+   "author": "John Scalzi",
+   "series": null,
+   "series_no": null,
+   "release": "2026-11-03",
+   "release_precision": "day",
+   "genres": [
+    "Sci-Fi"
+   ],
+   "desc": "Welcome to Richland, Ohio. Things aren't great. The town’s biggest employer is closing shop, and Richland's on the brink. It's where Mike Boyd, with his own set of problems, finds himself returning to after decades away. He's not planning to stay. But Richland has other plans for Mike, his old friend Dave, and a newcomer Andi. They're caught in a swirl of local troubles, private equity, executive theft… and something extremely weird involving Jeremy Keller’s prize cow. Welcome to Richland. Leave your expectations behind. Bring a tarp.",
+   "publisher": null,
+   "isbn13": "9780765389039",
+   "cover": null,
+   "labels": [
+    "Popular in Sci-Fi"
+   ],
+   "rank": 72,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
    "id": "9781668225127",
    "work": "h2472300",
    "title": "Off the Reservation",
@@ -1928,7 +1953,7 @@
    "labels": [
     "Popular in Crime"
    ],
-   "rank": 72,
+   "rank": 73,
    "sources": [
     "hc"
    ]
@@ -1954,7 +1979,7 @@
    "labels": [
     "Popular in Horror"
    ],
-   "rank": 73,
+   "rank": 74,
    "sources": [
     "hc"
    ]
@@ -1979,7 +2004,7 @@
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 74,
+   "rank": 75,
    "sources": [
     "hc"
    ]
@@ -2004,7 +2029,7 @@
    "labels": [
     "Popular in Nonfiction"
    ],
-   "rank": 75,
+   "rank": 76,
    "sources": [
     "hc"
    ]
@@ -2032,7 +2057,33 @@
     "Popular in Horror",
     "Popular in Dark Fantasy"
    ],
-   "rank": 76,
+   "rank": 77,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "h2373129",
+   "work": "h2373129",
+   "title": "Vasmora",
+   "subtitle": null,
+   "author": "Keri Lake",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-06",
+   "release_precision": "day",
+   "genres": [
+    "Fantasy",
+    "Dark Fantasy"
+   ],
+   "desc": "In the harrowing conclusion of The Eating Woods trilogy, an age-old prophecy will come to pass, plunging the immortal world into a blighted web of destruction and despair. Fate has never been entirely kind to Maevyth Bronwick. Though, after having survived a sinister plague, grotesque monsters, and gut-wrenching tragedy, she never imagined things could possibly get worse. But cursed gods, she was wrong. It seems fate was only sharpening its claws. Ensnared in the golden gauntlet of the most sadistic general in Aethyria, Maevyth faces the wrath of a jealous tyrant who longs to watch her suffer a slow and painful ruin. A torment said to be worse than death. Without the protection of her blood magic, Maevyth is no more than a powerless mortal and must fight the urge to succumb to the cruelty. Not an easy task, given the devastating loss she refuses to accept—and rightly so. Because Zevander “The Scorpion” Rydainn isn’t dead, after all. He’s very much alive and seething with vengeance. Brimming with rage. Merciless in his pursuit to reclaim his beloved mate and bring the ancient godsflame to anyone who stands in his way. A necessary brutality when a slumbering god awakens and Aethyria’s foretold destruction reignites the hunt of those who seek Maevyth’s precious blood. Prophecies will unravel. Walls will crumble. Kingdoms will fall. And through it all, a monolith of truth stands unbroken: Their love may conquer all, but death will tear them apart.",
+   "publisher": null,
+   "isbn13": null,
+   "cover": "covers/h2373129.jpg",
+   "labels": [
+    "Popular in Dark Fantasy"
+   ],
+   "rank": 78,
    "sources": [
     "hc"
    ]
@@ -2060,7 +2111,7 @@
     "Popular in Nonfiction",
     "Popular in Historical"
    ],
-   "rank": 77,
+   "rank": 79,
    "sources": [
     "hc"
    ]
@@ -2088,7 +2139,7 @@
     "Popular in Queer",
     "Popular in Gothic"
    ],
-   "rank": 78,
+   "rank": 80,
    "sources": [
     "hc"
    ]
@@ -2113,7 +2164,7 @@
    "labels": [
     "Popular in Crime"
    ],
-   "rank": 79,
+   "rank": 81,
    "sources": [
     "hc"
    ]
@@ -2140,7 +2191,7 @@
    "labels": [
     "Popular in Gothic"
    ],
-   "rank": 80,
+   "rank": 82,
    "sources": [
     "hc"
    ]
@@ -2165,32 +2216,7 @@
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 81,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9780369785534",
-   "work": "h2633898",
-   "title": "Hell to Pay",
-   "subtitle": null,
-   "author": "Kylie Lee Baker",
-   "series": null,
-   "series_no": null,
-   "release": "2027-03-30",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "Leni was kidnapped and almost sacrificed to the devil as a child, but now she’s perfectly fine. Aside from the fact that she has three reflections in the mirror…and one of them wants her to poison people. Emerson was a leading heart surgeon until The Incident that left his patient dead. Now he’s too sick to work, keeps finding severed fingers in his water bottles, and is followed around by a faceless Girl Scout with a creaky red wagon. Jasper is a line cook with a criminal record, just trying to keep his chosen family together. Sure, he sees a man in the shadows who likes the taste of blood, but he’s very good at ignoring that. He would do anything for Leni and Emerson. Anything. They’re fine. They’re normal. They’re roommates making it work in New York City. That is, until a demon leaves his sigil on their wall. Now, they have seven days to bring Sychar a sacrifice, or he’ll tear off their skin. Who knew demon-slaying wasn’t a valid excuse to miss work? Why are murder supplies so expensive? Just how is a low-income household supposed to afford a human sacrifice? As their personal ghosts grow louder and Sychar’s deadline draws nearer, Leni, Emerson, and Jasper discover just how far they’ll go to protect each other. For readers who love: Grady Hendrix and Stephen King Morally gray protector Haunted apartment Found family in danger Demon-slaying Darkly funny, deeply haunted stories",
-   "publisher": null,
-   "isbn13": "9780369785534",
-   "cover": "covers/9780369785534.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 82,
+   "rank": 83,
    "sources": [
     "hc"
    ]
@@ -2216,7 +2242,32 @@
    "labels": [
     "Popular in Dark Fantasy"
    ],
-   "rank": 83,
+   "rank": 84,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781035907175",
+   "work": "h2609620",
+   "title": "The Blade and the Last Sacrifice",
+   "subtitle": null,
+   "author": "Elizabeth May",
+   "series": null,
+   "series_no": null,
+   "release": "2027-02-16",
+   "release_precision": "day",
+   "genres": [
+    "Crime"
+   ],
+   "desc": "AN EMPRESS BOUND BY BLOOD. A GOD BOUND BY HATE. A CHOICE THAT COULD SHATTER TWO WORLDS. Theodora Devaliant wasn't born to rule-she was born to bleed. The last Anchor of a cursed royal bloodline, her body alone upholds the fragile veil between divine and mortal realms. When her life is threatened and demigods are found slaughtered in her streets, the god-king issues an ultimatum: marry, produce an heir, or watch the realms burn. To ensure she survives long enough to comply, he sends his most lethal Enforcer to guard her. Bastien has spent centuries nursing his hatred for the Devaliant family. Convinced Theodora is behind the murders, he'll use his assignment as her bodyguard to gather proof and watch her empire crumble. But as desire blurs the lines between enemy and ally, the body count rises, and evidence points to a conspiracy that could shatter both their worlds. Because when duty and desire collide, and the veil between gods and humans begins to tear, choosing wrong doesn't just mean death-it means apocalypse. PERFECT FOR FANS OF - Enemies to lovers - Touch her and die - Villain gets the girl - Forced proximity - He falls first",
+   "publisher": null,
+   "isbn13": "9781035907175",
+   "cover": "covers/9781035907175.jpg",
+   "labels": [
+    "Popular in Crime"
+   ],
+   "rank": 85,
    "sources": [
     "hc"
    ]
@@ -2241,7 +2292,32 @@
    "labels": [
     "Popular in Crime"
    ],
-   "rank": 84,
+   "rank": 86,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9780369785534",
+   "work": "h2633898",
+   "title": "Hell to Pay",
+   "subtitle": null,
+   "author": "Kylie Lee Baker",
+   "series": null,
+   "series_no": null,
+   "release": "2027-03-30",
+   "release_precision": "day",
+   "genres": [
+    "Crime"
+   ],
+   "desc": "Leni was kidnapped and almost sacrificed to the devil as a child, but now she’s perfectly fine. Aside from the fact that she has three reflections in the mirror…and one of them wants her to poison people. Emerson was a leading heart surgeon until The Incident that left his patient dead. Now he’s too sick to work, keeps finding severed fingers in his water bottles, and is followed around by a faceless Girl Scout with a creaky red wagon. Jasper is a line cook with a criminal record, just trying to keep his chosen family together. Sure, he sees a man in the shadows who likes the taste of blood, but he’s very good at ignoring that. He would do anything for Leni and Emerson. Anything. They’re fine. They’re normal. They’re roommates making it work in New York City. That is, until a demon leaves his sigil on their wall. Now, they have seven days to bring Sychar a sacrifice, or he’ll tear off their skin. Who knew demon-slaying wasn’t a valid excuse to miss work? Why are murder supplies so expensive? Just how is a low-income household supposed to afford a human sacrifice? As their personal ghosts grow louder and Sychar’s deadline draws nearer, Leni, Emerson, and Jasper discover just how far they’ll go to protect each other. For readers who love: Grady Hendrix and Stephen King Morally gray protector Haunted apartment Found family in danger Demon-slaying Darkly funny, deeply haunted stories",
+   "publisher": null,
+   "isbn13": "9780369785534",
+   "cover": "covers/9780369785534.jpg",
+   "labels": [
+    "Popular in Crime"
+   ],
+   "rank": 87,
    "sources": [
     "hc"
    ]
@@ -2266,42 +2342,17 @@
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 85,
+   "rank": 88,
    "sources": [
     "hc"
    ]
   },
   {
-   "id": "9781250337634",
-   "work": "h2703294",
-   "title": "Finlay Donovan Plays with Fire",
+   "id": "9781668217115",
+   "work": "h2493368",
+   "title": "Please Enjoy Your Stay",
    "subtitle": null,
-   "author": "Elle Cosimano",
-   "series": null,
-   "series_no": null,
-   "release": "2027-03-16",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "When Finlay Donovan showed up at Stacey Pickens’s house to defend herself and her loved ones against Stacey’s vicious rumor mill, she uttered a veiled threat, never daring to imagine she might be one of the last people to see her busy-body neighbor alive. News gets out that Stacey has vanished and there are signs of foul play. Her jacket and keys were found discarded in the woods behind the community playground, covered in blood. To make matters worse, the forensic photographer documenting the crime scene is none other than the ex-fiancée of Finlay’s hot cop boyfriend Nick. The only bright spot is that no one seems to know about Finlay’s altercation with Stacey, except Finlay’s loyal nanny, Vero, who’s hiding a combustible secret of her own. As the missing persons investigation escalates to a possible homicide, Finlay and Nick become the top suspects when a dogged detective learns Nick had beef with Stacey too. Determined to get him off their back, Finlay, Nick, and Vero discover more than they bargained for when they launch their own investigation into Stacey’s disappearance—their quiet suburban street is a tinderbox of scandals, blackmail, and lies, and the former president of the neighborhood watch could be holding a lit match . . . Pitted against a mountain of evidence against them—and backstabbing neighbors with plenty to hide—Finlay and Nick are in a race against the cops to solve Stacey’s case before they both go down for the crime.",
-   "publisher": null,
-   "isbn13": "9781250337634",
-   "cover": "covers/9781250337634.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 86,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9780593702369",
-   "work": "h2606200",
-   "title": "Another Name for Red",
-   "subtitle": null,
-   "author": "Amber Blaeser-Wardzala",
+   "author": "Tara Goedjen",
    "series": null,
    "series_no": null,
    "release": "2026-10-13",
@@ -2309,14 +2360,14 @@
    "genres": [
     "Crime"
    ],
-   "desc": "Middle Sister is haunted by everyone in her community who has disappeared—as well as those who remain. Her ex-best friend and ex-boyfriend are walking relics of the girl she used to be, while her family—her activist mother, checked-out father, and attention-starved younger siblings—are reminders of the elder sister she can never live up to. Then there’s John Smith, the infamous white man with red cowboy boots living on stolen reservation land, whose obsessive attentions are as repellant as they are compelling. But most of all, there are the thousands of unacknowledged missing and murdered Indigenous women, including Older Sister, whose year-long absence from the reservation has torn her remaining family apart. With local authorities proving useless, Middle Sister decides to start an investigation of her own, beginning with the mysterious “Eric”—a white man from a neighboring town who Older Sister claimed to love, and who she swore loved her. Attempting to hunt down the correct white Eric in the haystack of Minnesota forces Middle Sister to seek help from the community from which she’s grown alienated, starting with her coworker, Casanova; a stray rez dog; and Nookomis, her grandmother who’s foreseen her own death. Yet John still lurks in the growing wintry shadows, offering a sort of surrender that Middle Sister can’t help being drawn to. In the end, she must either let the guilt consume her or forgive herself and fight.",
+   "desc": "When they were teenagers, Mia’s beloved cousin was murdered during their stay at an infamous castle in the Austrian Alps. As the only witness, Mia’s testimony put the killer behind bars, but it tore her life apart: the media accused her aunt, a controversial true crime author, of being involved. Now, a decade later, the murderer is appealing his conviction, and a popular true crime podcast starts covering the case, determined to exonerate him, and resurfacing lies about Mia’s family in the process. Desperate to protect her aunt—and what she knows to be the truth—Mia returns to Austria. The castle is being revamped as a luxury hotel, and Mia gets a job as a nanny for the new owner, hiding in plain sight as she investigates, needing to set the story straight once and for all. But after someone mysteriously disappears on the property and sinister new evidence emerges regarding her cousin’s death, she realizes she might have accused the wrong man...and put her own life in danger.",
    "publisher": null,
-   "isbn13": "9780593702369",
-   "cover": "covers/9780593702369.jpg",
+   "isbn13": "9781668217115",
+   "cover": "covers/9781668217115.jpg",
    "labels": [
     "Popular in Crime"
    ],
-   "rank": 87,
+   "rank": 89,
    "sources": [
     "hc"
    ]
@@ -2341,7 +2392,7 @@
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 88,
+   "rank": 90,
    "sources": [
     "hc"
    ]
@@ -2367,7 +2418,32 @@
    "labels": [
     "Popular in Dark Fantasy"
    ],
-   "rank": 89,
+   "rank": 91,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781250369550",
+   "work": "h2581144",
+   "title": "Nightcurse",
+   "subtitle": null,
+   "author": "Emma Hinds",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-08",
+   "release_precision": "day",
+   "genres": [
+    "Gothic"
+   ],
+   "desc": "Emrys Swift is so dead. One hundred and fifty seven years worth of dead, to be exact. He’s a Revenant, nightcursed, destined to be stuck being seventeen forever. Hidden away, he spends his infinite days as an undead librarian of witchlore at the NeverEnd library–until a new Revenant arrives and magical artifacts start going missing, jeopardizing his beloved home. Emrys’s mortal enemy and annoyingly attractive shapeshifter Aubrey Vale is determined to solve the mystery – with Emrys’s help. Suddenly Emrys and Aubrey are magically bonded together on a quest into the dark and frost-bitten world of night-kin. But as Emyrs and Aubrey interrogate ghosts and face drowning by mermaids, deathly creatures aren’t the only spectres haunting them. With the ghoulish Night Hunt chasing them down, can they outrun the secrets of Emrys’ death and Aubrey’s life? And if they can save NeverEnd’s future, can they have a future together? Hauntingly gorgeous and tender, Emma Hinds’ Nightcurse is both a Gothic mystery and an enemies-to-lovers romance about navigating life and love in the face of death. Cursed with eternity, haunted by love–discover the truth about living forever in this achingly atmospheric dark academia fantasy",
+   "publisher": null,
+   "isbn13": "9781250369550",
+   "cover": "covers/9781250369550.jpg",
+   "labels": [
+    "Popular in Gothic"
+   ],
+   "rank": 92,
    "sources": [
     "hc"
    ]
@@ -2393,57 +2469,7 @@
    "labels": [
     "Popular in Gothic"
    ],
-   "rank": 90,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781250369550",
-   "work": "h2581144",
-   "title": "Nightcurse",
-   "subtitle": null,
-   "author": "Emma Hinds",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-08",
-   "release_precision": "day",
-   "genres": [
-    "Gothic"
-   ],
-   "desc": "Emrys Swift is so dead. One hundred and fifty seven years worth of dead, to be exact. He’s a Revenant, nightcursed, destined to be stuck being seventeen forever. Hidden away, he spends his infinite days as an undead librarian of witchlore at the NeverEnd library–until a new Revenant arrives and magical artifacts start going missing, jeopardizing his beloved home. Emrys’s mortal enemy and annoyingly attractive shapeshifter Aubrey Vale is determined to solve the mystery – with Emrys’s help. Suddenly Emrys and Aubrey are magically bonded together on a quest into the dark and frost-bitten world of night-kin. But as Emyrs and Aubrey interrogate ghosts and face drowning by mermaids, deathly creatures aren’t the only spectres haunting them. With the ghoulish Night Hunt chasing them down, can they outrun the secrets of Emrys’ death and Aubrey’s life? And if they can save NeverEnd’s future, can they have a future together? Hauntingly gorgeous and tender, Emma Hinds’ Nightcurse is both a Gothic mystery and an enemies-to-lovers romance about navigating life and love in the face of death. Cursed with eternity, haunted by love–discover the truth about living forever in this achingly atmospheric dark academia fantasy",
-   "publisher": null,
-   "isbn13": "9781250369550",
-   "cover": "covers/9781250369550.jpg",
-   "labels": [
-    "Popular in Gothic"
-   ],
-   "rank": 91,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781787706644",
-   "work": "h2512968",
-   "title": "Night of a Thousand Hells",
-   "subtitle": null,
-   "author": "Intan Paramaditha",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-06",
-   "release_precision": "day",
-   "genres": [
-    "Gothic"
-   ],
-   "desc": "A genre-defying feminist gothic novel blending Indonesian folklore, Islamic mysticism, horror, and political reckoning International literary sensation Intan Paramaditha returns with her most ambitious and haunting work to date. The novel opens with a devastating act: the youngest of three sisters becomes a suicide bomber. In the aftermath, her surviving siblings are forced to confront the violent, buried truths of their family history. Their search leads them to long-concealed secrets, and to the prophecies of their grandmother, whose shadowy wisdom has shaped their fates. Set across Indonesia, the United States, and Australia, the novel explores class divides, sisterhood, migration, shame, abandonment, and the politics of care—all through a ghostly, atmospheric lens that draws on Asian folktales and occult traditions. With its blend of political urgency, mythic resonance, and psychological depth, Night of a Thousand Hells is a singular contribution to global feminist literature.",
-   "publisher": null,
-   "isbn13": "9781787706644",
-   "cover": "covers/9781787706644.jpg",
-   "labels": [
-    "Popular in Gothic"
-   ],
-   "rank": 92,
+   "rank": 93,
    "sources": [
     "hc"
    ]
@@ -2468,7 +2494,7 @@
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 93,
+   "rank": 94,
    "sources": [
     "hc"
    ]
