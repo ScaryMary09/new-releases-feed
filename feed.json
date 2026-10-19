@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-10-12",
+ "updated": "2026-10-19",
  "genres": [
   "Horror",
   "Gothic",
@@ -97,7 +97,6 @@
    "cover": "covers/9780063577541.jpg",
    "labels": [
     "Most Anticipated",
-    "Trending",
     "Editors' Pick",
     "Popular in Literary Fiction"
    ],
@@ -155,41 +154,10 @@
    "cover": "covers/9781668251065.jpg",
    "labels": [
     "Most Anticipated",
-    "Trending",
     "Editors' Pick",
     "Popular in Literary Fiction"
    ],
    "rank": 5,
-   "sources": [
-    "gr",
-    "hc",
-    "editorial"
-   ]
-  },
-  {
-   "id": "9798217239689",
-   "work": "h2373125",
-   "title": "Reap & Sow",
-   "subtitle": null,
-   "author": "Charlotte B. Plumb",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-01",
-   "release_precision": "month",
-   "genres": [
-    "Fantasy"
-   ],
-   "desc": "Twenty-year-old Eda and her brothers help arrange illicit pacts with a demon known as Mr. Black in their curiosity shop, but when Eda must make her own pact with the demon Kit to save her brothers, she finds herself falling in love with him.",
-   "publisher": null,
-   "isbn13": "9798217239689",
-   "cover": "covers/9798217239689.jpg",
-   "labels": [
-    "Most Anticipated",
-    "Trending",
-    "Editors' Pick",
-    "Popular in Fantasy"
-   ],
-   "rank": 6,
    "sources": [
     "gr",
     "hc",
@@ -215,44 +183,10 @@
    "cover": "covers/9781250431295.jpg",
    "labels": [
     "Most Anticipated",
-    "Trending",
     "Editors' Pick",
     "Popular in Romance"
    ],
-   "rank": 7,
-   "sources": [
-    "gr",
-    "hc",
-    "editorial"
-   ]
-  },
-  {
-   "id": "9781805464600",
-   "work": "h2130812",
-   "title": "Solace House",
-   "subtitle": null,
-   "author": "Will Maclean",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-01",
-   "release_precision": "month",
-   "genres": [
-    "Horror",
-    "Literary Fiction",
-    "Fantasy"
-   ],
-   "desc": "For Alex Lane's wealthy university friends, the summer break stretches out before them, full of promise and fabulous plans. But for Alex, broke as usual, going home is not an option. So when the university offers him an unusual summer job clearing out a dilapidated Victorian mansion, Solace House, he jumps at the chance. Alex joins an unlikely crew of students, from stoner Clive to uptight, short-tempered Helen, and the extremely peculiar Adam. Alex is particularly drawn to mercurial, red-headed Ella, and as the students begin sorting through piles of old newspapers and magazines, dusty antiques, and esoteric junk, Alex and Ella become enthralled by the elaborate and eerie journals of the house's former owner, Edwin Flayne. In these diaries, Flayne details his obsession with his missing mother and his belief in a mysterious realm lying parallel to ours, along with coded instructions on how it might be reached. As the students gradually uncover the house's secrets, the rift between those who want to delve further and those who believe they've already gone too far grows ever wider.",
-   "publisher": "Allen & Unwin Aotearoa New Zealand",
-   "isbn13": "9781805464600",
-   "cover": "covers/9781805464600.jpg",
-   "labels": [
-    "Most Anticipated",
-    "Editors' Pick",
-    "Popular in Fantasy",
-    "Popular in Horror",
-    "Popular in Literary Fiction"
-   ],
-   "rank": 8,
+   "rank": 6,
    "sources": [
     "gr",
     "hc",
@@ -282,7 +216,7 @@
     "Editors' Pick",
     "Popular in Sci-Fi"
    ],
-   "rank": 9,
+   "rank": 7,
    "sources": [
     "gr",
     "hc",
@@ -307,9 +241,37 @@
    "isbn13": "9798260200568",
    "cover": "covers/9798260200568.jpg",
    "labels": [
-    "Most Anticipated"
+    "Most Anticipated",
+    "Popular in Fantasy"
    ],
-   "rank": 10,
+   "rank": 8,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781666651416",
+   "work": "h884141",
+   "title": "The Gift",
+   "subtitle": null,
+   "author": "Freida McFadden",
+   "series": null,
+   "series_no": null,
+   "release": "2026-11-01",
+   "release_precision": "month",
+   "genres": [
+    "Thriller"
+   ],
+   "desc": "\"It’s Christmas Eve and Stella Hansen is broke. She is so broke that despite working two jobs, she can’t even afford a present for her husband on their first Christmas as man and wife. But then a mysterious storekeeper at a pawn shop offers Stella an intriguing trade. Stella wants more than anything to buy her husband the Christmas gift of his dreams. But will it come at a terrible price?\" --",
+   "publisher": null,
+   "isbn13": "9781666651416",
+   "cover": "covers/9781666651416.jpg",
+   "labels": [
+    "Most Anticipated",
+    "Popular in Thriller"
+   ],
+   "rank": 9,
    "sources": [
     "gr",
     "hc"
@@ -335,37 +297,10 @@
    "cover": "covers/g247655090.jpg",
    "labels": [
     "Most Anticipated",
+    "Popular in Fantasy",
     "Popular in Queer"
    ],
-   "rank": 11,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781666651416",
-   "work": "h884141",
-   "title": "The Gift",
-   "subtitle": null,
-   "author": "Freida McFadden",
-   "series": null,
-   "series_no": null,
-   "release": "2026-11-01",
-   "release_precision": "month",
-   "genres": [
-    "Thriller"
-   ],
-   "desc": "\"It’s Christmas Eve and Stella Hansen is broke. She is so broke that despite working two jobs, she can’t even afford a present for her husband on their first Christmas as man and wife. But then a mysterious storekeeper at a pawn shop offers Stella an intriguing trade. Stella wants more than anything to buy her husband the Christmas gift of his dreams. But will it come at a terrible price?\" --",
-   "publisher": null,
-   "isbn13": "9781666651416",
-   "cover": "covers/9781666651416.jpg",
-   "labels": [
-    "Most Anticipated",
-    "Trending",
-    "Popular in Thriller"
-   ],
-   "rank": 12,
+   "rank": 10,
    "sources": [
     "gr",
     "hc"
@@ -393,70 +328,10 @@
     "Most Anticipated",
     "Popular in Queer"
    ],
-   "rank": 13,
+   "rank": 11,
    "sources": [
     "gr",
     "hc"
-   ]
-  },
-  {
-   "id": "9780671527938",
-   "work": "h502699",
-   "title": "The Light Years",
-   "subtitle": null,
-   "author": "Elizabeth Jane Howard",
-   "series": "Cazalet Chronicles",
-   "series_no": "1",
-   "release": "2026-12-01",
-   "release_precision": "month",
-   "genres": [
-    "Literary Fiction",
-    "Nonfiction",
-    "Historical"
-   ],
-   "desc": "Tells of the relationships between three generations of various Cazalet households in England beginning in 1937.",
-   "publisher": "G K Hall Audio Books",
-   "isbn13": "9780671527938",
-   "cover": "covers/9780671527938.jpg",
-   "labels": [
-    "Most Anticipated",
-    "Popular in Literary Fiction",
-    "Popular in Nonfiction",
-    "Popular in Historical"
-   ],
-   "rank": 14,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781335003232",
-   "work": "h2475227",
-   "title": "Life Out of Order",
-   "subtitle": null,
-   "author": "Audrey Niffenegger",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-06",
-   "release_precision": "day",
-   "genres": [
-    "Sci-Fi"
-   ],
-   "desc": "Alba DeTamble is a time traveler, slipping unpredictably through decades like her father before her. But the hardest thing she carries isn’t the burden of futures she can’t understand, or pasts she cannot change – it’s a secret: she is in love with two different people. Each of them offers a different life. Zach lives in the present and can’t follow her when she disappears. Oliver can travel through time, just like she can. As Alba careens from time to time, moving from the riot-torn Chicago streets of her present to the eerie, timeless Yellow House, and into the digital corridors of the Museum of Lost Souls and a flooded future London, she must face a question she can no longer avoid: how is it possible to love, and live a meaningful life, in an increasingly troubled, fractured world? Intimate and expansive, \"Life Out of Order\" is a kaleidoscopic story of love, resilience and hope when time is running out.",
-   "publisher": "Penguin Random House NZ",
-   "isbn13": "9781335003232",
-   "cover": "covers/9781335003232.jpg",
-   "labels": [
-    "Most Anticipated",
-    "Editors' Pick",
-    "Popular in Sci-Fi"
-   ],
-   "rank": 15,
-   "sources": [
-    "gr",
-    "hc",
-    "editorial"
    ]
   },
   {
@@ -479,14 +354,14 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 16,
+   "rank": 12,
    "sources": [
     "gr",
     "hc"
    ]
   },
   {
-   "id": "9780593953129",
+   "id": "9798217195558",
    "work": "h1637907",
    "title": "Longtime Listener",
    "subtitle": null,
@@ -500,12 +375,13 @@
    ],
    "desc": "Maggie Lin has been seamlessly running her retired father’s radio station for years, keeping 101.6 LITE FM thriving, often at the expense of her own personal life. Her only friends are her coworkers—and her anonymous online pen pal. But when the future of the station is threatened by a Fortune 500 corporation, Maggie has to get creative to outsmart their shark of an acquisitions executive. Cooper West arrives in Baltimore determined to put an end to Maggie’s stonewalling and finally collect his next big promotion. Armed with advice from his anonymous online friend and plenty of charm, Cooper somehow seems to know every move Maggie makes—just before she makes it. But in between the verbal sparring and office plotting, something else begins to grow. Something neither of them wants. There’s a fine line between love and hate, and Cooper and Maggie are tap-dancing along the edge. Will their fledgling feelings be enough to bridge the gap between them? Or is this merger bad for business?",
    "publisher": null,
-   "isbn13": "9780593953129",
-   "cover": "covers/9780593953129.jpg",
+   "isbn13": "9798217195558",
+   "cover": "covers/9798217195558.jpg",
    "labels": [
-    "Most Anticipated"
+    "Most Anticipated",
+    "Trending"
    ],
-   "rank": 17,
+   "rank": 13,
    "sources": [
     "gr",
     "hc"
@@ -532,7 +408,7 @@
     "Most Anticipated",
     "Popular in Queer"
    ],
-   "rank": 18,
+   "rank": 14,
    "sources": [
     "gr",
     "hc"
@@ -558,7 +434,7 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 19,
+   "rank": 15,
    "sources": [
     "gr",
     "hc"
@@ -585,7 +461,7 @@
     "Most Anticipated",
     "Popular in Romance"
    ],
-   "rank": 20,
+   "rank": 16,
    "sources": [
     "gr",
     "hc"
@@ -612,33 +488,7 @@
     "Most Anticipated",
     "Popular in Crime"
    ],
-   "rank": 21,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781464264610",
-   "work": "h2478760",
-   "title": "Beneath a Midnight Moon",
-   "subtitle": null,
-   "author": "Catherine Cowles",
-   "series": "Starlight Grove",
-   "series_no": "3",
-   "release": "2026-11-16",
-   "release_precision": "day",
-   "genres": [
-    "Other"
-   ],
-   "desc": "Book 3 in the Starlight Grove series about Maverick and Aster.",
-   "publisher": null,
-   "isbn13": "9781464264610",
-   "cover": "covers/9781464264610.jpg",
-   "labels": [
-    "Most Anticipated"
-   ],
-   "rank": 22,
+   "rank": 17,
    "sources": [
     "gr",
     "hc"
@@ -665,7 +515,33 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 23,
+   "rank": 18,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781464264610",
+   "work": "h2478760",
+   "title": "Beneath a Midnight Moon",
+   "subtitle": null,
+   "author": "Catherine Cowles",
+   "series": "Starlight Grove",
+   "series_no": "3",
+   "release": "2026-11-16",
+   "release_precision": "day",
+   "genres": [
+    "Other"
+   ],
+   "desc": "Book 3 in the Starlight Grove series about Maverick and Aster.",
+   "publisher": null,
+   "isbn13": "9781464264610",
+   "cover": "covers/9781464264610.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 19,
    "sources": [
     "gr",
     "hc"
@@ -692,7 +568,7 @@
     "Most Anticipated",
     "Popular in Queer"
    ],
-   "rank": 24,
+   "rank": 20,
    "sources": [
     "gr",
     "hc"
@@ -718,7 +594,60 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 25,
+   "rank": 21,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781250794222",
+   "work": "h1659386",
+   "title": "Chosen Son",
+   "subtitle": null,
+   "author": "Adrienne Young",
+   "series": "Fallen City Duology",
+   "series_no": "2",
+   "release": "2026-12-15",
+   "release_precision": "day",
+   "genres": [
+    "Fantasy"
+   ],
+   "desc": "When the city fell, Maris lost everything—her freedom, her future, and the man she loved. Now, with Luca trapped behind the gates of Isara, she makes a choice that will change her life forever: to don the armor of the enemy and march back into the heart of the city she was forced to flee. Every step brings her closer to Luca, but also deeper into the blood-soaked machine of war. Inside Isara’s walls, Luca wrestles with a truth more dangerous than any sword. Once the symbol of the Loyal Legion, he has lost the thing he was truly fighting for—Maris. The shift of the war has left him to question whether he has become a pawn of the gods, and with betrayal lurking in every shadow, Luca must decide who he is: the dutiful soldier forged by rebellion, or the man willing to risk everything for love. Across battlefields and through broken temples, Maris and Luca’s treacherous paths through Isara are set to collide. And when the gods demand sacrifice, it comes in a form no one could have expected.",
+   "publisher": null,
+   "isbn13": "9781250794222",
+   "cover": "covers/9781250794222.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 22,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781335081315",
+   "work": "h2799099",
+   "title": "Compulsively Yours",
+   "subtitle": null,
+   "author": "Allison Raskin",
+   "series": null,
+   "series_no": null,
+   "release": "2026-12-08",
+   "release_precision": "day",
+   "genres": [
+    "Horror"
+   ],
+   "desc": "Libi Newman doesn’t date. Relationship OCD makes it tough for her to date without doubts, so Libi prefers to flit between hook-ups instead, knowing that she can’t sabotage a relationship if it’s not serious. It isn’t ideal, but considering she’s also grieving her mother’s recent passing, Libi can only handle so much at once. Thank goodness for her OCD support group. Nate Keller has harbored a crush on Libi since he joined the group. While he’s there to address his Contamination OCD, he can’t help but be charmed by Libi and her dark sense of humor. But they’re just friends, and Nate’s okay with that. Really. When Libi’s summoned to the Newman family timeshare in Mexico for her grandparents’ anniversary, it’s not all margaritas and suntans. Not only is her recently widowed father bringing his new girlfriend, but Libi’s college ex—the one she never quite got over—also shows up...on the arm of her least-favorite cousin. Luckily Nate tags along for emotional support so Libi doesn’t have to face this nightmare vacation alone. What begins as an innocent promise of friends helping each other quickly turns into a fake-dating scheme—and Nate’s playing the boyfriend role too well. As the lies stack up, Libi has to keep track of her own ping-ponging emotions: are the romantic sunset strolls coloring her perspective…or is she actually wanting to date Nate for real?",
+   "publisher": null,
+   "isbn13": "9781335081315",
+   "cover": "covers/9781335081315.jpg",
+   "labels": [
+    "Most Anticipated",
+    "Popular in Horror"
+   ],
+   "rank": 23,
    "sources": [
     "gr",
     "hc"
@@ -744,7 +673,7 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 26,
+   "rank": 24,
    "sources": [
     "gr",
     "hc"
@@ -771,7 +700,7 @@
     "Most Anticipated",
     "Popular in Gothic"
    ],
-   "rank": 27,
+   "rank": 25,
    "sources": [
     "gr",
     "hc"
@@ -797,165 +726,33 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 28,
+   "rank": 26,
    "sources": [
     "gr",
     "hc"
    ]
   },
   {
-   "id": "9781408879474",
-   "work": "h428904",
-   "title": "The Moth Reborn",
+   "id": "9781538777572",
+   "work": "h2652814",
+   "title": "Wolf Point",
    "subtitle": null,
-   "author": "Samantha Shannon",
-   "series": "The Bone Season",
-   "series_no": "6",
-   "release": "2027-02-23",
-   "release_precision": "day",
-   "genres": [
-    "Fantasy"
-   ],
-   "desc": "The world has been plunged into chaos. Beyond the Republic of Scion, humans now know that gods walk among them. After months abroad, Paige Mahoney is ready to reunite with Arcturus and finish the fight they started together. Before returning to Scion, they accept an invitation from the Ranthen, who are choosing their new leader in Iceland – only for the night to end in violence. Forced to go on the run through the unforgiving Alps, the labyrinths of Lyon and beyond, Paige must now solve the mystery of her own existence – and the origins of clairvoyance – to save the revolution. Alliances will be tested, hearts will be shattered, and ancient truths will be unearthed. Sweeping, suspenseful and emotionally charged, the sixth instalment Bone Season novel cements Samantha Shannon as a master of epic storytelling as the series hurtles towards a breath-taking finale. 'Part fantasy, part dystopia, all intrigue. It's a world of impressive scope' Vogue 'A masterclass in page-turning prose' Saara El-Arifi",
-   "publisher": null,
-   "isbn13": "9781408879474",
-   "cover": "covers/9781408879474.jpg",
-   "labels": [
-    "Most Anticipated"
-   ],
-   "rank": 29,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781250794222",
-   "work": "h1659386",
-   "title": "Chosen Son",
-   "subtitle": null,
-   "author": "Adrienne Young",
-   "series": "Fallen City Duology",
-   "series_no": "2",
-   "release": "2026-12-15",
-   "release_precision": "day",
-   "genres": [
-    "Fantasy"
-   ],
-   "desc": "When the city fell, Maris lost everything—her freedom, her future, and the man she loved. Now, with Luca trapped behind the gates of Isara, she makes a choice that will change her life forever: to don the armor of the enemy and march back into the heart of the city she was forced to flee. Every step brings her closer to Luca, but also deeper into the blood-soaked machine of war. Inside Isara’s walls, Luca wrestles with a truth more dangerous than any sword. Once the symbol of the Loyal Legion, he has lost the thing he was truly fighting for—Maris. The shift of the war has left him to question whether he has become a pawn of the gods, and with betrayal lurking in every shadow, Luca must decide who he is: the dutiful soldier forged by rebellion, or the man willing to risk everything for love. Across battlefields and through broken temples, Maris and Luca’s treacherous paths through Isara are set to collide. And when the gods demand sacrifice, it comes in a form no one could have expected.",
-   "publisher": null,
-   "isbn13": "9781250794222",
-   "cover": "covers/9781250794222.jpg",
-   "labels": [
-    "Most Anticipated"
-   ],
-   "rank": 30,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781335081315",
-   "work": "h2799099",
-   "title": "Compulsively Yours",
-   "subtitle": null,
-   "author": "Allison Raskin",
+   "author": "Lisa Howells",
    "series": null,
    "series_no": null,
-   "release": "2026-12-08",
+   "release": "2026-12-01",
    "release_precision": "day",
-   "genres": [
-    "Horror"
-   ],
-   "desc": "Libi Newman doesn’t date. Relationship OCD makes it tough for her to date without doubts, so Libi prefers to flit between hook-ups instead, knowing that she can’t sabotage a relationship if it’s not serious. It isn’t ideal, but considering she’s also grieving her mother’s recent passing, Libi can only handle so much at once. Thank goodness for her OCD support group. Nate Keller has harbored a crush on Libi since he joined the group. While he’s there to address his Contamination OCD, he can’t help but be charmed by Libi and her dark sense of humor. But they’re just friends, and Nate’s okay with that. Really. When Libi’s summoned to the Newman family timeshare in Mexico for her grandparents’ anniversary, it’s not all margaritas and suntans. Not only is her recently widowed father bringing his new girlfriend, but Libi’s college ex—the one she never quite got over—also shows up...on the arm of her least-favorite cousin. Luckily Nate tags along for emotional support so Libi doesn’t have to face this nightmare vacation alone. What begins as an innocent promise of friends helping each other quickly turns into a fake-dating scheme—and Nate’s playing the boyfriend role too well. As the lies stack up, Libi has to keep track of her own ping-ponging emotions: are the romantic sunset strolls coloring her perspective…or is she actually wanting to date Nate for real?",
-   "publisher": null,
-   "isbn13": "9781335081315",
-   "cover": "covers/9781335081315.jpg",
-   "labels": [
-    "Most Anticipated",
-    "Trending",
-    "Popular in Horror"
-   ],
-   "rank": 31,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9798217092802",
-   "work": "h2674724",
-   "title": "People Pleasing",
-   "subtitle": null,
-   "author": "Hannah Bonam-Young",
-   "series": null,
-   "series_no": null,
-   "release": "2027-01-01",
-   "release_precision": "month",
    "genres": [
     "Other"
    ],
-   "desc": "Nadia Kablukov does not want to go home. But when her brother Nik calls in his emergency favor and asks for help opening his new brewery, Nadia heads back against her better judgment. This means facing her former next-door neighbor, best friend, and first love: Aleks Truss. Nadia knew Aleks was going to be around—he is Nik’s business partner, after all—but seeing Aleks standing on her brother’s front porch, she realizes that she might not be able to bury her feelings forever. Aleks longs for simpler days, when Nadia was only a stone’s throw away and life felt less overwhelming. Now, working together at the brewery, Nadia and Aleks find themselves falling back into old routines, despite the time and distance between them. Aleks is still able to see through Nadia’s hardened exterior—and she’s still able to get him out of his ruminating thoughts like no one else can. But Nadia, burdened by the past, isn't sure she could ever stay and Aleks isn't sure if he has the strength to ask her to. So giving in to anything more between them will only cause more pain when it’s time to say goodbye again, right?",
+   "desc": "",
    "publisher": null,
-   "isbn13": "9798217092802",
-   "cover": "covers/9798217092802.jpg",
+   "isbn13": "9781538777572",
+   "cover": "covers/9781538777572.jpg",
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 32,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781649378736",
-   "work": "h2231127",
-   "title": "Six Bullets and a Crown",
-   "subtitle": null,
-   "author": "Alexis Calder",
-   "series": null,
-   "series_no": null,
-   "release": "2027-03-01",
-   "release_precision": "month",
-   "genres": [
-    "Fantasy"
-   ],
-   "desc": "In a world where magic means death, a woman hiding her power hires a brooding gunslinger to guide her across a dangerous wasteland in this slow-burn, high-heat romantasy where trust is a liability, survival isn't guaranteed, and the monsters aren’t the greatest threat. Perfect for fans of ACOTAR and The Gunslinger, this sizzling, enemies-to-lovers romantasy is a bullet-laced ride through a magic-starved kingdom.",
-   "publisher": "Penguin Random House NZ",
-   "isbn13": "9781649378736",
-   "cover": "covers/9781649378736.jpg",
-   "labels": [
-    "Most Anticipated"
-   ],
-   "rank": 33,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781911750987",
-   "work": "h2219417",
-   "title": "The Wrath Gods Reap",
-   "subtitle": null,
-   "author": "Abigail Owen",
-   "series": "The Crucible",
-   "series_no": "3",
-   "release": "2026-11-17",
-   "release_precision": "day",
-   "genres": [
-    "Fantasy"
-   ],
-   "desc": "Don't miss out on the stunning DELUXE LIMITED EDITION while supplies last. This breathtaking collectible is only available on a limited first print run in the U.S. and Canada only, a must-have for any book lover. Don’t miss the thrilling conclusion to the instant #1 New York Times bestselling The Games Gods Play and The Things Gods Break. The Wrath Gods Reap is Percy Jackson for adults meets The Hunger Games, with a slow burn romance between a contestant and Hades himself. The Crucible series is best enjoyed in order. Reading Order: Book #1 The Games Gods Play Book #2 The Things Gods Break Book #3 The Wrath Gods Reap",
-   "publisher": "Unknown",
-   "isbn13": "9781911750987",
-   "cover": "covers/9781911750987.jpg",
-   "labels": [
-    "Most Anticipated"
-   ],
-   "rank": 34,
+   "rank": 27,
    "sources": [
     "gr",
     "hc"
@@ -982,7 +779,139 @@
     "Most Anticipated",
     "Popular in Horror"
    ],
-   "rank": 35,
+   "rank": 28,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9798217092802",
+   "work": "h2674724",
+   "title": "People Pleasing",
+   "subtitle": null,
+   "author": "Hannah Bonam-Young",
+   "series": null,
+   "series_no": null,
+   "release": "2027-01-01",
+   "release_precision": "month",
+   "genres": [
+    "Other"
+   ],
+   "desc": "Nadia Kablukov does not want to go home. But when her brother Nik calls in his emergency favor and asks for help opening his new brewery, Nadia heads back against her better judgment. This means facing her former next-door neighbor, best friend, and first love: Aleks Truss. Nadia knew Aleks was going to be around—he is Nik’s business partner, after all—but seeing Aleks standing on her brother’s front porch, she realizes that she might not be able to bury her feelings forever. Aleks longs for simpler days, when Nadia was only a stone’s throw away and life felt less overwhelming. Now, working together at the brewery, Nadia and Aleks find themselves falling back into old routines, despite the time and distance between them. Aleks is still able to see through Nadia’s hardened exterior—and she’s still able to get him out of his ruminating thoughts like no one else can. But Nadia, burdened by the past, isn't sure she could ever stay and Aleks isn't sure if he has the strength to ask her to. So giving in to anything more between them will only cause more pain when it’s time to say goodbye again, right?",
+   "publisher": null,
+   "isbn13": "9798217092802",
+   "cover": "covers/9798217092802.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 29,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781649378736",
+   "work": "h2231127",
+   "title": "Six Bullets and a Crown",
+   "subtitle": null,
+   "author": "Alexis Calder",
+   "series": null,
+   "series_no": null,
+   "release": "2027-03-01",
+   "release_precision": "month",
+   "genres": [
+    "Fantasy"
+   ],
+   "desc": "In a world where magic means death, a woman hiding her power hires a brooding gunslinger to guide her across a dangerous wasteland in this slow-burn, high-heat romantasy where trust is a liability, survival isn't guaranteed, and the monsters aren’t the greatest threat. Perfect for fans of ACOTAR and The Gunslinger, this sizzling, enemies-to-lovers romantasy is a bullet-laced ride through a magic-starved kingdom.",
+   "publisher": "Penguin Random House NZ",
+   "isbn13": "9781649378736",
+   "cover": "covers/9781649378736.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 30,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781911750987",
+   "work": "h2219417",
+   "title": "The Wrath Gods Reap",
+   "subtitle": null,
+   "author": "Abigail Owen",
+   "series": "The Crucible",
+   "series_no": "3",
+   "release": "2026-11-17",
+   "release_precision": "day",
+   "genres": [
+    "Fantasy"
+   ],
+   "desc": "Don't miss out on the stunning DELUXE LIMITED EDITION while supplies last. This breathtaking collectible is only available on a limited first print run in the U.S. and Canada only, a must-have for any book lover. Don’t miss the thrilling conclusion to the instant #1 New York Times bestselling The Games Gods Play and The Things Gods Break. The Wrath Gods Reap is Percy Jackson for adults meets The Hunger Games, with a slow burn romance between a contestant and Hades himself. The Crucible series is best enjoyed in order. Reading Order: Book #1 The Games Gods Play Book #2 The Things Gods Break Book #3 The Wrath Gods Reap",
+   "publisher": "Unknown",
+   "isbn13": "9781911750987",
+   "cover": "covers/9781911750987.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 31,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781250420473",
+   "work": "h2186630",
+   "title": "When Shadows Burn",
+   "subtitle": null,
+   "author": "Vanessa Le",
+   "series": "When Shadows Burn Duology",
+   "series_no": "1",
+   "release": "2026-12-01",
+   "release_precision": "month",
+   "genres": [
+    "Fantasy"
+   ],
+   "desc": "Vanessa Le's new fantasy duology starter follows a demon-hunting duo in an exorcist university layered with magic, murder, and corruption — perfect for fans of BABEL and DIVINE RIVALS. In Yennington, exorcism is a job for two: a demon caller, and a demon slayer. Kiet Sren is a hotshot caller despite dropping out of the esteemed Phenbridge University; his blood attracts any demon. Song Sarna is the top slayer of her class; her blade and wit kills any demon. Together, they run Inkspill Agency. When one day Kiet's estranged family hires them to hunt an aberrant demon, they are propelled into the most dangerous job of their lives — an investigation that could uncover the workings of a deadly group seeking to destroy the university from the inside out. But as their investigation dredges up long-buried history, they discover that the one behind this criminal group is closer to home than they realized, and that perhaps the upstanding Phenbridge University is hiding secrets of its own. To exorcize the aberrant demon and put an end to the deadly possessions, Kiet and Song must decide how much they're willing to bleed: for their families, for their city — and for each other. Vanessa Le's latest crossover fantasy combines dark academia with a propulsive detective tale at its finest — with a slow-burn romance and medical magic system as intricate as lab work.",
+   "publisher": null,
+   "isbn13": "9781250420473",
+   "cover": null,
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 32,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9798217377602",
+   "work": "h2558566",
+   "title": "Bedside Manner",
+   "subtitle": null,
+   "author": "Stephanie  Archer",
+   "series": null,
+   "series_no": null,
+   "release": "2026-12-08",
+   "release_precision": "day",
+   "genres": [
+    "Literary Fiction",
+    "Romance"
+   ],
+   "desc": "I can get along with anyone—except him. One of the most prominent pediatric plastic surgeons in the country, he terrifies the other residents, the nurses despise him, and his bedside manner sucks. I want nothing to do with him. When he puts me on retainer to sleep with him and only him, though, the money is too good to pass up. The deal is simple: I sleep with him, he pays me, and neither of us get feelings. Sleeping with Grant is surprisingly fun and intimate, and with his pediatric fellowship at risk due to his lack of interpersonal skills, I vow to teach Grant how to be more likable, and see a whole new side of him.",
+   "publisher": null,
+   "isbn13": "9798217377602",
+   "cover": "covers/9798217377602.jpg",
+   "labels": [
+    "Most Anticipated",
+    "Popular in Literary Fiction"
+   ],
+   "rank": 33,
    "sources": [
     "gr",
     "hc"
@@ -1008,59 +937,33 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 36,
+   "rank": 34,
    "sources": [
     "gr",
     "hc"
    ]
   },
   {
-   "id": "9781538777572",
-   "work": "h2652814",
-   "title": "Wolf Point",
+   "id": "9781408879474",
+   "work": "h428904",
+   "title": "The Moth Reborn",
    "subtitle": null,
-   "author": "Lisa Howells",
-   "series": null,
-   "series_no": null,
-   "release": "2026-12-01",
+   "author": "Samantha Shannon",
+   "series": "The Bone Season",
+   "series_no": "6",
+   "release": "2027-02-23",
    "release_precision": "day",
    "genres": [
-    "Other"
+    "Fantasy"
    ],
-   "desc": "",
+   "desc": "The world has been plunged into chaos. Beyond the Republic of Scion, humans now know that gods walk among them. After months abroad, Paige Mahoney is ready to reunite with Arcturus and finish the fight they started together. Before returning to Scion, they accept an invitation from the Ranthen, who are choosing their new leader in Iceland – only for the night to end in violence. Forced to go on the run through the unforgiving Alps, the labyrinths of Lyon and beyond, Paige must now solve the mystery of her own existence – and the origins of clairvoyance – to save the revolution. Alliances will be tested, hearts will be shattered, and ancient truths will be unearthed. Sweeping, suspenseful and emotionally charged, the sixth instalment Bone Season novel cements Samantha Shannon as a master of epic storytelling as the series hurtles towards a breath-taking finale. 'Part fantasy, part dystopia, all intrigue. It's a world of impressive scope' Vogue 'A masterclass in page-turning prose' Saara El-Arifi",
    "publisher": null,
-   "isbn13": "9781538777572",
-   "cover": "covers/9781538777572.jpg",
+   "isbn13": "9781408879474",
+   "cover": "covers/9781408879474.jpg",
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 37,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "g244447993",
-   "work": "h2485831",
-   "title": "Weak Side",
-   "subtitle": null,
-   "author": "Chelsea Curto",
-   "series": "D.C. Stars",
-   "series_no": "7",
-   "release": "2027-01-01",
-   "release_precision": "month",
-   "genres": [
-    "Romance"
-   ],
-   "desc": "",
-   "publisher": null,
-   "isbn13": null,
-   "cover": "covers/g244447993.jpg",
-   "labels": [
-    "Most Anticipated"
-   ],
-   "rank": 38,
+   "rank": 35,
    "sources": [
     "gr",
     "hc"
@@ -1086,7 +989,33 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 39,
+   "rank": 36,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "g244447993",
+   "work": "h2485831",
+   "title": "Weak Side",
+   "subtitle": null,
+   "author": "Chelsea Curto",
+   "series": "D.C. Stars",
+   "series_no": "7",
+   "release": "2027-01-01",
+   "release_precision": "month",
+   "genres": [
+    "Romance"
+   ],
+   "desc": "",
+   "publisher": null,
+   "isbn13": null,
+   "cover": "covers/g244447993.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 37,
    "sources": [
     "gr",
     "hc"
@@ -1112,59 +1041,7 @@
    "labels": [
     "Most Anticipated"
    ],
-   "rank": 40,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9798217377602",
-   "work": "h2558566",
-   "title": "Bedside Manner",
-   "subtitle": null,
-   "author": "Stephanie  Archer",
-   "series": null,
-   "series_no": null,
-   "release": "2026-12-08",
-   "release_precision": "day",
-   "genres": [
-    "Literary Fiction",
-    "Romance"
-   ],
-   "desc": "I can get along with anyone—except him. One of the most prominent pediatric plastic surgeons in the country, he terrifies the other residents, the nurses despise him, and his bedside manner sucks. I want nothing to do with him. When he puts me on retainer to sleep with him and only him, though, the money is too good to pass up. The deal is simple: I sleep with him, he pays me, and neither of us get feelings. Sleeping with Grant is surprisingly fun and intimate, and with his pediatric fellowship at risk due to his lack of interpersonal skills, I vow to teach Grant how to be more likable, and see a whole new side of him.",
-   "publisher": null,
-   "isbn13": "9798217377602",
-   "cover": "covers/9798217377602.jpg",
-   "labels": [
-    "Trending",
-    "Popular in Literary Fiction"
-   ],
-   "rank": 41,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781250420473",
-   "work": "h2186630",
-   "title": "When Shadows Burn",
-   "subtitle": null,
-   "author": "Vanessa Le",
-   "series": "When Shadows Burn Duology",
-   "series_no": "1",
-   "release": "2026-12-01",
-   "release_precision": "month",
-   "genres": [
-    "Fantasy"
-   ],
-   "desc": "Vanessa Le's new fantasy duology starter follows a demon-hunting duo in an exorcist university layered with magic, murder, and corruption — perfect for fans of BABEL and DIVINE RIVALS. In Yennington, exorcism is a job for two: a demon caller, and a demon slayer. Kiet Sren is a hotshot caller despite dropping out of the esteemed Phenbridge University; his blood attracts any demon. Song Sarna is the top slayer of her class; her blade and wit kills any demon. Together, they run Inkspill Agency. When one day Kiet's estranged family hires them to hunt an aberrant demon, they are propelled into the most dangerous job of their lives — an investigation that could uncover the workings of a deadly group seeking to destroy the university from the inside out. But as their investigation dredges up long-buried history, they discover that the one behind this criminal group is closer to home than they realized, and that perhaps the upstanding Phenbridge University is hiding secrets of its own. To exorcize the aberrant demon and put an end to the deadly possessions, Kiet and Song must decide how much they're willing to bleed: for their families, for their city — and for each other. Vanessa Le's latest crossover fantasy combines dark academia with a propulsive detective tale at its finest — with a slow-burn romance and medical magic system as intricate as lab work.",
-   "publisher": null,
-   "isbn13": "9781250420473",
-   "cover": null,
-   "labels": [],
-   "rank": 42,
+   "rank": 38,
    "sources": [
     "gr",
     "hc"
@@ -1188,9 +1065,10 @@
    "isbn13": "9780778332237",
    "cover": "covers/9780778332237.jpg",
    "labels": [
+    "Most Anticipated",
     "Popular in Horror"
    ],
-   "rank": 43,
+   "rank": 39,
    "sources": [
     "gr",
     "hc"
@@ -1213,8 +1091,35 @@
    "publisher": null,
    "isbn13": "9798217188864",
    "cover": "covers/9798217188864.jpg",
+   "labels": [
+    "Most Anticipated"
+   ],
+   "rank": 40,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781250362339",
+   "work": "h2235723",
+   "title": "Call Me Traitor",
+   "subtitle": null,
+   "author": "Everina Maxwell",
+   "series": null,
+   "series_no": null,
+   "release": "2026-12-01",
+   "release_precision": "day",
+   "genres": [
+    "Fantasy",
+    "Romance"
+   ],
+   "desc": "En is a weapon. Battle spells are carved into her skin, she’s trained to work through pain, and she’s magically compelled with loyalty to the archmage. When she's sent on a mission to retrieve a group of infamous traitors from exile in a land of unpredictable and deadly magic, she's forced to team up with a common soldier to have any chance of success, or survival. Tamol is a disaster. En isn’t fooled by the soldier’s silver tongue and good looks. Tamol is flighty, cowardly and the worst soldier En has ever met. But she’s also brilliant at magic and kinder than En has any right to expect. When she saves En’s life, it takes everything En has not to start falling for her. That is, until En discovers Tamol is one of the very traitors she seeks. The empire never forgets. Years ago, the exiled traitors were just normal students with a vision for a better kingdom. They put their lives on the line fighting for it and lost. So they were exiled to the Far Peninsula to die. But now, the empire discovers the traitors may yet live, and they’ve unearthed something in the wilderness that the archmage will pay any price to get. But the might of an unforgiving empire isn’t the greatest force in all the land. Something monstrous is living in the Far Peninsula that does not discriminate between soldiers, traitors, and kings. The future of the empire is unexpectedly in the hands of En and Tamol.",
+   "publisher": null,
+   "isbn13": "9781250362339",
+   "cover": "covers/9781250362339.jpg",
    "labels": [],
-   "rank": 44,
+   "rank": 41,
    "sources": [
     "gr",
     "hc"
@@ -1238,7 +1143,7 @@
    "isbn13": "9780063488359",
    "cover": "covers/9780063488359.jpg",
    "labels": [],
-   "rank": 45,
+   "rank": 42,
    "sources": [
     "gr",
     "hc"
@@ -1265,32 +1170,7 @@
    "labels": [
     "Popular in Literary Fiction"
    ],
-   "rank": 46,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781250362339",
-   "work": "h2235723",
-   "title": "Call Me Traitor",
-   "subtitle": null,
-   "author": "Everina Maxwell",
-   "series": null,
-   "series_no": null,
-   "release": "2026-12-01",
-   "release_precision": "day",
-   "genres": [
-    "Fantasy",
-    "Romance"
-   ],
-   "desc": "En is a weapon. Battle spells are carved into her skin, she’s trained to work through pain, and she’s magically compelled with loyalty to the archmage. When she's sent on a mission to retrieve a group of infamous traitors from exile in a land of unpredictable and deadly magic, she's forced to team up with a common soldier to have any chance of success, or survival. Tamol is a disaster. En isn’t fooled by the soldier’s silver tongue and good looks. Tamol is flighty, cowardly and the worst soldier En has ever met. But she’s also brilliant at magic and kinder than En has any right to expect. When she saves En’s life, it takes everything En has not to start falling for her. That is, until En discovers Tamol is one of the very traitors she seeks. The empire never forgets. Years ago, the exiled traitors were just normal students with a vision for a better kingdom. They put their lives on the line fighting for it and lost. So they were exiled to the Far Peninsula to die. But now, the empire discovers the traitors may yet live, and they’ve unearthed something in the wilderness that the archmage will pay any price to get. But the might of an unforgiving empire isn’t the greatest force in all the land. Something monstrous is living in the Far Peninsula that does not discriminate between soldiers, traitors, and kings. The future of the empire is unexpectedly in the hands of En and Tamol.",
-   "publisher": null,
-   "isbn13": "9781250362339",
-   "cover": "covers/9781250362339.jpg",
-   "labels": [],
-   "rank": 47,
+   "rank": 43,
    "sources": [
     "gr",
     "hc"
@@ -1319,7 +1199,7 @@
     "Popular in Horror",
     "Popular in Queer"
    ],
-   "rank": 48,
+   "rank": 44,
    "sources": [
     "gr",
     "hc"
@@ -1343,7 +1223,7 @@
    "isbn13": "9781250881175",
    "cover": "covers/9781250881175.jpg",
    "labels": [],
-   "rank": 49,
+   "rank": 45,
    "sources": [
     "gr",
     "hc"
@@ -1367,7 +1247,7 @@
    "isbn13": "9781516112784",
    "cover": "covers/9781516112784.jpg",
    "labels": [],
-   "rank": 50,
+   "rank": 46,
    "sources": [
     "gr",
     "hc"
@@ -1393,31 +1273,7 @@
    "labels": [
     "Popular in Literary Fiction"
    ],
-   "rank": 51,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781464272691",
-   "work": "h2782725",
-   "title": "When They Find Me",
-   "subtitle": null,
-   "author": "Carter   Wilson",
-   "series": null,
-   "series_no": null,
-   "release": "2026-11-10",
-   "release_precision": "day",
-   "genres": [
-    "Other"
-   ],
-   "desc": "",
-   "publisher": null,
-   "isbn13": "9781464272691",
-   "cover": "covers/9781464272691.jpg",
-   "labels": [],
-   "rank": 52,
+   "rank": 47,
    "sources": [
     "gr",
     "hc"
@@ -1443,7 +1299,7 @@
    "labels": [
     "Popular in Literary Fiction"
    ],
-   "rank": 53,
+   "rank": 48,
    "sources": [
     "gr",
     "hc"
@@ -1466,37 +1322,59 @@
    "publisher": null,
    "isbn13": "9798217414079",
    "cover": "covers/9798217414079.jpg",
-   "labels": [
-    "Trending"
-   ],
-   "rank": 54,
+   "labels": [],
+   "rank": 49,
    "sources": [
     "gr",
     "hc"
    ]
   },
   {
-   "id": "9781250433992",
-   "work": "h2704377",
-   "title": "Mother Dearest",
+   "id": "9781464272691",
+   "work": "h2782725",
+   "title": "When They Find Me",
    "subtitle": null,
-   "author": "Clare Bird",
+   "author": "Carter   Wilson",
    "series": null,
    "series_no": null,
-   "release": "2027-03-09",
+   "release": "2026-11-10",
    "release_precision": "day",
    "genres": [
-    "Horror"
+    "Other"
    ],
-   "desc": "Mother Dearest, I am still trying to sift through the events of last night. It all feels very surreal. When I woke up this morning, I hoped it was a dream. I’d even accept it as a nightmare. But it’s not. I’m not with you and that alone feels catastrophic. I can’t believe we had our first fight! But the tendrils connecting a mother to her daughter will always run deep. Freedom is a funny thing. It’s something I wanted so badly, but now I’m wondering if what I had with you was better? Is the price of all of this going to be worth it? Do you miss me yet? What you said was hurtful, but I know I deserved it. I’m still processing my departure, it was rather sudden. I hope you know I haven’t been planning this. It just happened. Imogene doesn't know how to handle her mother's estrangement. But then she meets the perfect man, the one even her mother would approve of. She just knows that once they get married, her mother will welcome her back with open arms. Except he has a wife and daughter. As mother always said, a problem is only a problem until you solve it. A claustrophobic and can’t-look-away thriller, MOTHER DEAREST will have you on the edge of your seat with this sharp story you won’t ever forget.",
+   "desc": "",
    "publisher": null,
-   "isbn13": "9781250433992",
-   "cover": "covers/9781250433992.jpg",
-   "labels": [
-    "Trending",
-    "Popular in Horror"
+   "isbn13": "9781464272691",
+   "cover": "covers/9781464272691.jpg",
+   "labels": [],
+   "rank": 50,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "g255744423",
+   "work": "h2373129",
+   "title": "Vasmora",
+   "subtitle": null,
+   "author": "Keri Lake",
+   "series": "The Eating Woods",
+   "series_no": "3",
+   "release": "2026-10-06",
+   "release_precision": "day",
+   "genres": [
+    "Fantasy",
+    "Dark Fantasy"
    ],
-   "rank": 55,
+   "desc": "In the harrowing conclusion of The Eating Woods trilogy, an age-old prophecy will come to pass, plunging the immortal world into a blighted web of destruction and despair. Fate has never been entirely kind to Maevyth Bronwick. Though, after having survived a sinister plague, grotesque monsters, and gut-wrenching tragedy, she never imagined things could possibly get worse. But cursed gods, she was wrong. It seems fate was only sharpening its claws. Ensnared in the golden gauntlet of the most sadistic general in Aethyria, Maevyth faces the wrath of a jealous tyrant who longs to watch her suffer a slow and painful ruin. A torment said to be worse than death. Without the protection of her blood magic, Maevyth is no more than a powerless mortal and must fight the urge to succumb to the cruelty. Not an easy task, given the devastating loss she refuses to accept—and rightly so. Because Zevander “The Scorpion” Rydainn isn’t dead, after all. He’s very much alive and seething with vengeance. Brimming with rage. Merciless in his pursuit to reclaim his beloved mate and bring the ancient godsflame to anyone who stands in his way. A necessary brutality when a slumbering god awakens and Aethyria’s foretold destruction reignites the hunt of those who seek Maevyth’s precious blood. Prophecies will unravel. Walls will crumble. Kingdoms will fall. And through it all, a monolith of truth stands unbroken: Their love may conquer all, but death will tear them apart.",
+   "publisher": null,
+   "isbn13": null,
+   "cover": "covers/g255744423.jpg",
+   "labels": [
+    "Popular in Dark Fantasy"
+   ],
+   "rank": 51,
    "sources": [
     "gr",
     "hc"
@@ -1520,7 +1398,7 @@
    "isbn13": "9780593953747",
    "cover": "covers/9780593953747.jpg",
    "labels": [],
-   "rank": 56,
+   "rank": 52,
    "sources": [
     "gr",
     "hc"
@@ -1546,7 +1424,7 @@
    "labels": [
     "Popular in Queer"
    ],
-   "rank": 57,
+   "rank": 53,
    "sources": [
     "gr",
     "hc"
@@ -1572,57 +1450,31 @@
    "labels": [
     "Popular in Sci-Fi"
    ],
-   "rank": 58,
+   "rank": 54,
    "sources": [
     "gr",
     "hc"
    ]
   },
   {
-   "id": "g249327409",
-   "work": "h2637739",
-   "title": "Bad Idea",
+   "id": "9781250880345",
+   "work": "h3052691",
+   "title": "The Worst Wife",
    "subtitle": null,
-   "author": "Elle Kennedy",
+   "author": "Amy Tintera",
    "series": null,
    "series_no": null,
-   "release": "2027-03-01",
-   "release_precision": "month",
-   "genres": [
-    "Literary Fiction"
-   ],
-   "desc": "New York Times bestselling author Elle Kennedy returns to Briar University with her signature heat and humor in this new novel.",
-   "publisher": "Little, Brown Book Group Limited",
-   "isbn13": null,
-   "cover": null,
-   "labels": [
-    "Popular in Literary Fiction"
-   ],
-   "rank": 59,
-   "sources": [
-    "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9781668223406",
-   "work": "h2675503",
-   "title": "Undone",
-   "subtitle": null,
-   "author": "Peyton Corinne",
-   "series": "The Undone",
-   "series_no": "4",
-   "release": "2026-10-20",
+   "release": "2027-03-02",
    "release_precision": "day",
    "genres": [
-    "Romance"
+    "Other"
    ],
-   "desc": "From USA TODAY bestselling author Peyton Corinne comes a second-chance hockey romance between the team’s antihero and the new assistant coach’s daughter filled with Peyton’s trademark “deliciously angsty” (Publishers Weekly) storytelling. Toren Kane has always been a magnet for trouble. Branded as dangerous and brutal, his reputation has followed him from the playground to the ice rink. After a scandal cost him his first-round NHL draft pick, Toren’s last shot at redemption lies with Waterfell University’s hockey team—who all despise him for what he did to their captain at the last Frozen Four competition. To make matters worse, Waterfell’s new assistant coach is Christophe LaBlanc, Toren’s former coach and the man who knows all his darkest secrets. Lillian LaBlanc is out of chances, according to her father. After flunking out of an Ivy League, she’s struggling and her father’s strict rules are the only things keeping her afloat. Suffering beneath the weight of his suffocating control, Lily is desperate to keep her need to paint as hidden as her depression. But her fragile stability is threatened when she discovers that Toren Kane, her childhood best friend and first love, is also attending Waterfell—and is on her father’s team. As Toren and Lily’s lives collide once more, old wounds and unresolved feelings resurface. Toren must confront his self-destructive tendencies and learn to let others in, while Lily faces the daunting task of breaking free from her father’s grip.",
+   "desc": "",
    "publisher": null,
-   "isbn13": "9781668223406",
-   "cover": "covers/9781668223406.jpg",
+   "isbn13": "9781250880345",
+   "cover": "covers/9781250880345.jpg",
    "labels": [],
-   "rank": 60,
+   "rank": 55,
    "sources": [
     "gr",
     "hc"
@@ -1648,7 +1500,33 @@
    "labels": [
     "Popular in Literary Fiction"
    ],
-   "rank": 61,
+   "rank": 56,
+   "sources": [
+    "gr",
+    "hc"
+   ]
+  },
+  {
+   "id": "9781250433992",
+   "work": "h2704377",
+   "title": "Mother Dearest",
+   "subtitle": null,
+   "author": "Clare Bird",
+   "series": null,
+   "series_no": null,
+   "release": "2027-03-09",
+   "release_precision": "day",
+   "genres": [
+    "Horror"
+   ],
+   "desc": "Mother Dearest, I am still trying to sift through the events of last night. It all feels very surreal. When I woke up this morning, I hoped it was a dream. I’d even accept it as a nightmare. But it’s not. I’m not with you and that alone feels catastrophic. I can’t believe we had our first fight! But the tendrils connecting a mother to her daughter will always run deep. Freedom is a funny thing. It’s something I wanted so badly, but now I’m wondering if what I had with you was better? Is the price of all of this going to be worth it? Do you miss me yet? What you said was hurtful, but I know I deserved it. I’m still processing my departure, it was rather sudden. I hope you know I haven’t been planning this. It just happened. Imogene doesn't know how to handle her mother's estrangement. But then she meets the perfect man, the one even her mother would approve of. She just knows that once they get married, her mother will welcome her back with open arms. Except he has a wife and daughter. As mother always said, a problem is only a problem until you solve it. A claustrophobic and can’t-look-away thriller, MOTHER DEAREST will have you on the edge of your seat with this sharp story you won’t ever forget.",
+   "publisher": null,
+   "isbn13": "9781250433992",
+   "cover": "covers/9781250433992.jpg",
+   "labels": [
+    "Popular in Horror"
+   ],
+   "rank": 57,
    "sources": [
     "gr",
     "hc"
@@ -1672,7 +1550,7 @@
    "isbn13": "9798217189953",
    "cover": null,
    "labels": [],
-   "rank": 62,
+   "rank": 58,
    "sources": [
     "gr",
     "hc"
@@ -1696,64 +1574,9 @@
    "isbn13": "9781250376725",
    "cover": "covers/9781250376725.jpg",
    "labels": [],
-   "rank": 63,
+   "rank": 59,
    "sources": [
     "gr",
-    "hc"
-   ]
-  },
-  {
-   "id": "9780062936080",
-   "work": "h2473588",
-   "title": "As You Wake, Break the Shell",
-   "subtitle": null,
-   "author": "Becky Chambers",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-13",
-   "release_precision": "day",
-   "genres": [
-    "Sci-Fi",
-    "Queer"
-   ],
-   "desc": "Life on the resource-poor planet of Fortune is challenging, but for its inhabitants, it’s home. For two of them, Signy and Cora, this home might no longer be enough. Signy is a brilliant but reclusive botanist who bio-prints medicine from her small plant shop, often bending the rules to help those the system leaves behind. Her life is filled with the green of her store, the warmth of her one elderly friend, and the quiet determination to help others without putting herself in danger. Cora is a rorqual pilot, one of the few with the unique ability to navigate the massive, living ships that connect the scattered settlements of their solar system. Her bond with her rorqual, Colibri, is profound—a connection that is both her greatest gift and a threat to her career. It is that threat—the “mindbleed,” a dangerous side effect of her piloting—that brings her to Signy’s shop, and her appearance puts Signy in the danger she so fears. But it’s soon apparent it’s not just about losing her license—this delicate balance between risk and trust has the potential to change everything for them. Told in an alternating timeline of their initial coming together and a not-so-distant future where they have found domestic bliss, this is a story harrowing and haunting, heartfelt and hopeful. Through a love story centered around survival, we are given a glimpse into the very best of what Becky Chambers does in her writing: explore what it means to be human, and what it means to come together.",
-   "publisher": null,
-   "isbn13": "9780062936080",
-   "cover": "covers/9780062936080.jpg",
-   "labels": [
-    "Popular in Sci-Fi",
-    "Popular in Queer"
-   ],
-   "rank": 64,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781250621207",
-   "work": "h2180002",
-   "title": "The Thrice-Bound Fool",
-   "subtitle": null,
-   "author": "Christopher Buehlman",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-13",
-   "release_precision": "day",
-   "genres": [
-    "Horror",
-    "Fantasy",
-    "Dark Fantasy"
-   ],
-   "desc": "Professional thief and inveterate trickster Kinch Na Shannack has always enjoyed a good book. But now his life, and the future of all of Manreach, depends on deciphering a very bad book indeed; a stolen, sentient tome that tries to kill him every time he opens it—and often when it’s closed. Galva, veteran of the goblin wars and death’s sworn handmaiden, has vowed to protect Kinch while he mines the book for its dark magic and even darker secrets. She does so not for Kinch’s sake—though the cheeky bastard is growing on her—but because the book is the key to stopping the shadowy tyrants out to kill the queen she serves—and loves. The ruthless, all-seeing Taker’s Guild dogs their every step, and thief and knight must flee the known world entirely if they hope to succeed. But trouble finds Kinch wherever he goes, and the pair may have traded the devil they know for horrors far darker and hungrier as they enter lands unknown.",
-   "publisher": null,
-   "isbn13": "9781250621207",
-   "cover": "covers/9781250621207.jpg",
-   "labels": [
-    "Popular in Horror",
-    "Popular in Dark Fantasy"
-   ],
-   "rank": 65,
-   "sources": [
     "hc"
    ]
   },
@@ -1781,7 +1604,7 @@
     "Popular in Sci-Fi",
     "Popular in Queer"
    ],
-   "rank": 66,
+   "rank": 60,
    "sources": [
     "hc"
    ]
@@ -1808,32 +1631,7 @@
     "Popular in Sci-Fi",
     "Popular in Queer"
    ],
-   "rank": 67,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9798217375165",
-   "work": "h2484422",
-   "title": "Chain Reaction",
-   "subtitle": null,
-   "author": "Lee Child",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-20",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "Jack Reacher is hard to find. It's not easy to track him down. And he likes it that way. But General Susan Turner, based deep inside the Pentagon, has the means and the motive. She needs his help. A member of her team has been brutally murdered on covert duty. She can’t trust anyone she works with, not even her deputy. She needs someone from the outside. Someone who solves problems and disappears without a trace. Reacher heads to Summertown, Colorado. A town as remote and bizarre as it gets. One diner, one motel, five massive data centers, two giant solar farms humming away in the dust. Total population: four people. And one of them is watching him. But Reacher isn’t built to run. He’s built to finish things. General Turner knows that if they come for Reacher, they’ll regret it—all the way to the top of the chain.",
-   "publisher": null,
-   "isbn13": "9798217375165",
-   "cover": "covers/9798217375165.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 68,
+   "rank": 61,
    "sources": [
     "hc"
    ]
@@ -1858,32 +1656,32 @@
    "labels": [
     "Popular in Sci-Fi"
    ],
-   "rank": 69,
+   "rank": 62,
    "sources": [
     "hc"
    ]
   },
   {
-   "id": "9781668225127",
-   "work": "h2472300",
-   "title": "Off the Reservation",
+   "id": "9798217375165",
+   "work": "h2484422",
+   "title": "Chain Reaction",
    "subtitle": null,
-   "author": "Stephen Graham Jones",
+   "author": "Lee Child",
    "series": null,
    "series_no": null,
-   "release": "2026-10-13",
+   "release": "2026-10-20",
    "release_precision": "day",
    "genres": [
     "Crime"
    ],
-   "desc": "Nate Yellow Tail is one of the survivors of the deadly revenge murders of Stephen Graham Jones's breakout bestseller The Only Good Indians. Five years after the massacre on the Blackfeet reservation, Nate finds himself in the hospital after a terrible accident that should’ve killed him and that nearly killed his best friend Sebby, who is hanging onto life in a room a few doors down. Nate’s life is out of balance, so when he is given the chance to reset his life, and maybe save Sebby in the process, Nate steps up, again. This time it’s into a camper van that is almost as run down as his broken body, filled with three older Blackfeet, to find the bones of the lone Blackfeet boy who died at the Carlisle Indian Industrial School, where many Indigenous children were abused, and repatriate this boy home. The problem is, when they get the bones, something terrible has escaped with them. Jones has crafted another American Indian novel for our times, shining light on the dark corners of this country’s history while also showing the desperate choices people make when they’re put up against a wall.",
+   "desc": "Jack Reacher is hard to find. It's not easy to track him down. And he likes it that way. But General Susan Turner, based deep inside the Pentagon, has the means and the motive. She needs his help. A member of her team has been brutally murdered on covert duty. She can’t trust anyone she works with, not even her deputy. She needs someone from the outside. Someone who solves problems and disappears without a trace. Reacher heads to Summertown, Colorado. A town as remote and bizarre as it gets. One diner, one motel, five massive data centers, two giant solar farms humming away in the dust. Total population: four people. And one of them is watching him. But Reacher isn’t built to run. He’s built to finish things. General Turner knows that if they come for Reacher, they’ll regret it—all the way to the top of the chain.",
    "publisher": null,
-   "isbn13": "9781668225127",
-   "cover": "covers/9781668225127.jpg",
+   "isbn13": "9798217375165",
+   "cover": "covers/9798217375165.jpg",
    "labels": [
     "Popular in Crime"
    ],
-   "rank": 70,
+   "rank": 63,
    "sources": [
     "hc"
    ]
@@ -1908,7 +1706,7 @@
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 71,
+   "rank": 64,
    "sources": [
     "hc"
    ]
@@ -1933,7 +1731,7 @@
    "labels": [
     "Popular in Nonfiction"
    ],
-   "rank": 72,
+   "rank": 65,
    "sources": [
     "hc"
    ]
@@ -1961,7 +1759,32 @@
     "Popular in Queer",
     "Popular in Gothic"
    ],
-   "rank": 73,
+   "rank": 66,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9780063247642",
+   "work": "h2466599",
+   "title": "Queen of Lombard Street",
+   "subtitle": null,
+   "author": "Lisa Kleypas",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-20",
+   "release_precision": "day",
+   "genres": [
+    "Crime"
+   ],
+   "desc": "In Victorian England, no woman—not even a brilliant economist like Reina Martin—is allowed to open her own bank account. Men will take care of everything, women are told. But Reina knows better. As the illegitimate daughter of a Spanish immigrant mother, she’s haunted by the memory of living with unpaid grocer’s bills and no coal for the hearth. So together with her mentor, the powerful banker William Farlow, Reina will build the first all-women’s bank, where women can manage their own financial security. At home, Reina’s domestic staff of recently paroled prisoners are building new lives and becoming a found family. But soon Reina is shocked to discover that her enigmatic butler, John Pembroke, is an undercover police detective. He’s been assigned to investigate Farlow, who’s suspected of financial crime on a scale so massive, it could destabilize the British economy. Pembroke needs Reina’s expertise for a high-stakes nighttime heist to obtain incriminating evidence. Now Reina faces the agonizing choice of betraying her mentor or turning her back on thousands of working-class families who stand to lose everything. Either way, her dream of the women’s bank may be over. But courage and sacrifice aren’t limited to the battlefield—they also occur at the kitchen table, where women who believe in compassion and community are working to remake the future. And when the stakes are highest, Reina knows to trust her heart as well as her intellect.",
+   "publisher": null,
+   "isbn13": "9780063247642",
+   "cover": "covers/9780063247642.jpg",
+   "labels": [
+    "Popular in Crime"
+   ],
+   "rank": 67,
    "sources": [
     "hc"
    ]
@@ -1989,82 +1812,7 @@
     "Popular in Nonfiction",
     "Popular in Historical"
    ],
-   "rank": 74,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9780063247642",
-   "work": "h2466599",
-   "title": "Queen of Lombard Street",
-   "subtitle": null,
-   "author": "Lisa Kleypas",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-20",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "In Victorian England, no woman—not even a brilliant economist like Reina Martin—is allowed to open her own bank account. Men will take care of everything, women are told. But Reina knows better. As the illegitimate daughter of a Spanish immigrant mother, she’s haunted by the memory of living with unpaid grocer’s bills and no coal for the hearth. So together with her mentor, the powerful banker William Farlow, Reina will build the first all-women’s bank, where women can manage their own financial security. At home, Reina’s domestic staff of recently paroled prisoners are building new lives and becoming a found family. But soon Reina is shocked to discover that her enigmatic butler, John Pembroke, is an undercover police detective. He’s been assigned to investigate Farlow, who’s suspected of financial crime on a scale so massive, it could destabilize the British economy. Pembroke needs Reina’s expertise for a high-stakes nighttime heist to obtain incriminating evidence. Now Reina faces the agonizing choice of betraying her mentor or turning her back on thousands of working-class families who stand to lose everything. Either way, her dream of the women’s bank may be over. But courage and sacrifice aren’t limited to the battlefield—they also occur at the kitchen table, where women who believe in compassion and community are working to remake the future. And when the stakes are highest, Reina knows to trust her heart as well as her intellect.",
-   "publisher": null,
-   "isbn13": "9780063247642",
-   "cover": "covers/9780063247642.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 75,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9780593954850",
-   "work": "h2650893",
-   "title": "Dark Union",
-   "subtitle": null,
-   "author": "Mark Greaney",
-   "series": null,
-   "series_no": null,
-   "release": "2027-02-16",
-   "release_precision": "day",
-   "genres": [
-    "Thriller"
-   ],
-   "desc": "Court Gentry is the last surviving member of his family. His brother, Chance, was a police officer who lost his life years ago in a line of duty shooting. So how is it possible that Court catches a glimpse of his brother at their father’s funeral? It’s this shocking development that sends Court on a quest for the truth and a search for his missing sibling. But the dark state will do anything to keep its secrets.",
-   "publisher": null,
-   "isbn13": "9780593954850",
-   "cover": "covers/9780593954850.jpg",
-   "labels": [
-    "Popular in Thriller"
-   ],
-   "rank": 76,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781035907144",
-   "work": "h2609620",
-   "title": "The Blade and the Last Sacrifice",
-   "subtitle": null,
-   "author": "Elizabeth May",
-   "series": null,
-   "series_no": null,
-   "release": "2027-02-16",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "Theodora Devaliant wasn't born to rule-she was born to bleed. The last Anchor of a cursed royal bloodline, her body alone upholds the fragile veil between divine and mortal realms. When her life is threatened and demigods are found slaughtered in her streets, the god-king issues an ultimatum: marry, produce an heir, or watch the realms burn. To ensure she survives long enough to comply, he sends his most lethal Enforcer to guard her. Bastien has spent centuries nursing his hatred for the Devaliant family. Convinced Theodora is behind the murders, he'll use his assignment as her bodyguard to gather proof and watch her empire crumble. But as desire blurs the lines between enemy and ally, the body count rises, and evidence points to a conspiracy that could shatter both their worlds. Because when duty and desire collide, and the veil between gods and humans begins to tear, choosing wrong doesn't just mean death-it means apocalypse.",
-   "publisher": null,
-   "isbn13": "9781035907144",
-   "cover": "covers/9781035907144.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 77,
+   "rank": 68,
    "sources": [
     "hc"
    ]
@@ -2089,7 +1837,111 @@
    "labels": [
     "Popular in Crime"
    ],
-   "rank": 78,
+   "rank": 69,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "h2868884",
+   "work": "h2868884",
+   "title": "Exoplanet",
+   "subtitle": null,
+   "author": "Benjamin Percy",
+   "series": null,
+   "series_no": null,
+   "release": "2026-11-05",
+   "release_precision": "day",
+   "genres": [
+    "Thriller"
+   ],
+   "desc": "A sci-fi thriller executive produced by Andy Weir (#1 bestselling author of Project Hail Mary, The Martian), with an all-star cast led by Anthony Mackie, Ariana DeBose and John Leguizamo. Written by Benjamin Percy (Wolverine, The Ninth Metal). Sound design by Skywalker Sound in immersive Dolby Atmos. When the starship Wild Blue Yonder is torn apart by a quantum anomaly, each surviving crew member crash-lands in a different era on the same deadly exoplanet—hunted, alone, and running out of time. Chief Engineer Jeff Shaw (Anthony Mackie), aided by his virtual assistant (Ray Porter), must battle an unforgiving present, driven by one getting home to his daughter. First Officer Becca Bang (Academy Award winner Ariana DeBose) fights to survive a hostile alien past. Science Officer Logan Bowers (John Leguizamo) wakes in a machine-ruled future that shouldn't exist. But the anomaly wasn't random. A relentless alien intelligence is feeding on human technology—and it's been waiting for them across every timeline. Separated by centuries, the crew must find a way to communicate across time itself before this world consumes them all. Exoplanet is a propulsive, emotionally charged sci-fi thriller, perfect for fans of Project Hail Mary, Red Rising, The Expanse, and Dark Matter. Listeners, join the latest journey from Andy Weir where science meets survival, and the human spirit is tested across time, space, and impossible odds. Exoplanet awaits your arrival.",
+   "publisher": null,
+   "isbn13": null,
+   "cover": "covers/h2868884.jpg",
+   "labels": [
+    "Popular in Thriller"
+   ],
+   "rank": 70,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781802068269",
+   "work": "h2607421",
+   "title": "I Deliver Parcels in Beijing",
+   "subtitle": null,
+   "author": "Hu Anyan",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-29",
+   "release_precision": "day",
+   "genres": [
+    "Memoir"
+   ],
+   "desc": "Hu Anyan has held nineteen different jobs since he graduated. He's been a convenience store clerk, a bicycle salesman, a security guard and a delivery driver (among many other things). Every time the work gets punishing or the bosses too bossy, he moves on, from city to city, carrying with him nothing but his copies of Chekhov and Carver. This is his story. A runaway bestseller in China, I Deliver Parcels in Beijing is about what it's like to try and make a living - and stay sane - in the gig economy. From the pecking order on a parcel-sorting factory floor to the perfect alcohol dose to get some daylight shut-eye before a punishing night shift, from the Kafkaesque bureaucracy of the hiring departments to the ideal layout of a delivery route, Hu illuminates the hidden lives behind the roles that keep our world going. But he also shows how, through the liberating power of literature, he finds solace, and even freedom in his existence. Quietly radical, brimming with humanity and humour, this book asks: what does work really mean? What should it mean? And do any of us really know how to live?",
+   "publisher": null,
+   "isbn13": "9781802068269",
+   "cover": "covers/9781802068269.jpg",
+   "labels": [
+    "Popular in Memoir"
+   ],
+   "rank": 71,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781682638224",
+   "work": "h2282373",
+   "title": "You're No Better",
+   "subtitle": null,
+   "author": "Andrew Joseph White",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-27",
+   "release_precision": "day",
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Queer"
+   ],
+   "desc": "Morgan Slaughter, a seventeen-year-old trans boy with autism, put his serial killer father in prison years ago. Despite that, everyone thinks Morgan will grow up to be just like his dad: including his volatile mother, the documentary crew following their family, and maybe himself. Desperately, Morgan latches onto his father's final victim—the only one who was never identified—hoping that if he unravels the mystery, he'll finally prove he's better than the man who hurt him. But this puts Morgan in the crosshairs of classmate Felicity Keating, who knows the truth about Morgan's childhood—that he wasn't just a witness to his father's brutality, he was an accomplice. And if he doesn't let them help with his investigation? They'll tell everyone. Forced to confront his past, Morgan's ugly but carefully controlled world unravels. The film crew is manipulative. His mother's temper spirals into malice, then violence. And Morgan and Felicity may be more tightly intertwined than either of them can stomach . . . You're No Better is a gritty and unapologetic coming-of-age suspense about teens who grew up surrounded by cruelty and are clawing their way to adulthood the only way they know how.",
+   "publisher": null,
+   "isbn13": "9781682638224",
+   "cover": "covers/9781682638224.jpg",
+   "labels": [
+    "Popular in Thriller",
+    "Popular in Queer",
+    "Popular in Crime"
+   ],
+   "rank": 72,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781035907144",
+   "work": "h2609620",
+   "title": "The Blade and the Last Sacrifice",
+   "subtitle": null,
+   "author": "Elizabeth May",
+   "series": null,
+   "series_no": null,
+   "release": "2027-02-16",
+   "release_precision": "day",
+   "genres": [
+    "Crime"
+   ],
+   "desc": "Theodora Devaliant wasn't born to rule-she was born to bleed. The last Anchor of a cursed royal bloodline, her body alone upholds the fragile veil between divine and mortal realms. When her life is threatened and demigods are found slaughtered in her streets, the god-king issues an ultimatum: marry, produce an heir, or watch the realms burn. To ensure she survives long enough to comply, he sends his most lethal Enforcer to guard her. Bastien has spent centuries nursing his hatred for the Devaliant family. Convinced Theodora is behind the murders, he'll use his assignment as her bodyguard to gather proof and watch her empire crumble. But as desire blurs the lines between enemy and ally, the body count rises, and evidence points to a conspiracy that could shatter both their worlds. Because when duty and desire collide, and the veil between gods and humans begins to tear, choosing wrong doesn't just mean death-it means apocalypse.",
+   "publisher": null,
+   "isbn13": "9781035907144",
+   "cover": "covers/9781035907144.jpg",
+   "labels": [
+    "Popular in Crime"
+   ],
+   "rank": 73,
    "sources": [
     "hc"
    ]
@@ -2115,132 +1967,34 @@
    "labels": [
     "Popular in Dark Fantasy"
    ],
-   "rank": 79,
+   "rank": 74,
    "sources": [
     "hc"
    ]
   },
   {
-   "id": "9780316586467",
-   "work": "h2655913",
-   "title": "As We Fall Through Time",
+   "id": "9781668059999",
+   "work": "h2287284",
+   "title": "Code and Codex",
    "subtitle": null,
-   "author": "Claire North",
+   "author": "Yoon Ha Lee",
    "series": null,
    "series_no": null,
-   "release": "2026-10-13",
+   "release": "2026-10-27",
    "release_precision": "day",
    "genres": [
+    "Literary Fiction",
     "Sci-Fi"
    ],
-   "desc": "In the beginning, the world will end. This is the story of what happens next. When Cal meets a soldier of the French Revolution, he knows his lover is destined to die. But what's the point of being a time traveler if you can’t make a few small tweaks to the course of history? A little paradox here, an alteration there—nothing Cal can’t fix, to save the man he loves. When Fadimatu walks into a museum in 2018, she stumbles upon her own mummified corpse, setting her on the path to a betrayal that has already killed her, and a murder that has not yet come to pass. And when a sudden rupture in the fabric of history rips through the lives these travelers have built, breaking both past and future, they must reckon with death foretold, love forsaken, and a secret that will shatter time itself. ​An extraordinary tale of time travel, betrayal, and a love that echoes through the centuries, from Claire North, the multi-award-winning author of The First Fifteen Lives of Harry August.",
+   "desc": "In the stars-spanning Censorate, languages other than the Republic’s own lingua rubra, which has reality-altering properties, are forbidden. Nevertheless, there are discrepancies. The Censorate’s star forces are called the Athenaeum Navy, and each of its ships is referred to as a codex. Instead of port and starboard, its soldiers refer to verso and recto. The unholy “stigmata” gouged into the ships’ hulls might, to a foreign scholar, bear a resemblance to verboten texts in other languages. The Censorate is ruled by its Peacock, Aurelia, feared for the power of panopticon: she can look through anyone’s eyes. Moreover, Aurelia’s mastery of lingua rubra lets her force anyone who can understand her to follow her orders. Valentina, sold to Aurelia’s family as a child to be Aurelia’s oath-sister and companion, is its Swan, responsible for extracting useful information from foreign texts, then destroying them as well as entire languages through arcane arts. Valentina is assisted in her work by lower-ranking linguists and AI assistants who accept temporary contamination by foreign languages as a necessity of their work. But this isn’t enough for Aurelia. She wants to control and deploy the Censorate’s thousand-year traitor and prisoner, the Basilisk, a man with a gaze so lethal that he destroyed its fleet of old through camera feeds. Unfortunately for her, the Basilisk gave himself a form of aphasia that makes him immune to her commands",
    "publisher": null,
-   "isbn13": "9780316586467",
-   "cover": null,
+   "isbn13": "9781668059999",
+   "cover": "covers/9781668059999.jpg",
    "labels": [
+    "Popular in Literary Fiction",
     "Popular in Sci-Fi"
    ],
-   "rank": 80,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781802068269",
-   "work": "h2607421",
-   "title": "I Deliver Parcels in Beijing",
-   "subtitle": null,
-   "author": "Hu Anyan",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-29",
-   "release_precision": "day",
-   "genres": [
-    "Memoir"
-   ],
-   "desc": "Hu Anyan has held nineteen different jobs since he graduated. He's been a convenience store clerk, a bicycle salesman, a security guard and a delivery driver (among many other things). Every time the work gets punishing or the bosses too bossy, he moves on, from city to city, carrying with him nothing but his copies of Chekhov and Carver. This is his story. A runaway bestseller in China, I Deliver Parcels in Beijing is about what it's like to try and make a living - and stay sane - in the gig economy. From the pecking order on a parcel-sorting factory floor to the perfect alcohol dose to get some daylight shut-eye before a punishing night shift, from the Kafkaesque bureaucracy of the hiring departments to the ideal layout of a delivery route, Hu illuminates the hidden lives behind the roles that keep our world going. But he also shows how, through the liberating power of literature, he finds solace, and even freedom in his existence. Quietly radical, brimming with humanity and humour, this book asks: what does work really mean? What should it mean? And do any of us really know how to live?",
-   "publisher": null,
-   "isbn13": "9781802068269",
-   "cover": "covers/9781802068269.jpg",
-   "labels": [
-    "Popular in Memoir"
-   ],
-   "rank": 81,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9788409834631",
-   "work": "h2526123",
-   "title": "Hydra",
-   "subtitle": null,
-   "author": "Irene Nortes",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-20",
-   "release_precision": "day",
-   "genres": [
-    "Thriller"
-   ],
-   "desc": "Una historia sobre descubrir que nunca es tarde para empezar de nuevo. Helena ha aprendido a vivir con el corazón en silencio. A sus veinticinco años tiene una vida perfecta, un trabajo estable en la empresa familiar, una rutina medida al milímetro y un futuro que, sobre el papel, no deja espacio al error. Pero por dentro algo en ella se está resquebrajando. El insomnio, la ansiedad y una sensación persistente de vacío empiezan a derrumbar el control que tanto se esfuerza en mantener. Cuando aparecen una serie de inexplicables señales, decide viajar a Hydra, una diminuta isla griega suspendida sobre el mar Egeo donde, impulsada por una mezcla de curiosidad e intuición, un enigmático gato que llevaba tiempo esperándola la guiará. Lo que comienza como una simple escapada vacacional se irá transformando, a medida que pasan los días, en un viaje lleno de misterios por resolver y rincones que parecen susurrar secretos. El amor, la luz y la verdad se cruzarán en su camino, y Helena tendrá que decidir si quiere seguir huyendo o pararse a recordar quién era antes del miedo. ENGLISH DESCRIPTION A story about discovering that it's never too late to begin again. At twenty-five, Helena appears to have a perfect life: a stable job in the family business, a routine measured to the millimeter, and a future that, on paper, leaves no room for mistakes. But beneath the surface, her carefully controlled world is starting to fracture.",
-   "publisher": null,
-   "isbn13": "9788409834631",
-   "cover": "covers/9788409834631.jpg",
-   "labels": [
-    "Popular in Thriller"
-   ],
-   "rank": 82,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781250337634",
-   "work": "h2703294",
-   "title": "Finlay Donovan Plays with Fire",
-   "subtitle": null,
-   "author": "Elle Cosimano",
-   "series": null,
-   "series_no": null,
-   "release": "2027-03-16",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "When Finlay Donovan showed up at Stacey Pickens’s house to defend herself and her loved ones against Stacey’s vicious rumor mill, she uttered a veiled threat, never daring to imagine she might be one of the last people to see her busy-body neighbor alive. News gets out that Stacey has vanished and there are signs of foul play. Her jacket and keys were found discarded in the woods behind the community playground, covered in blood. To make matters worse, the forensic photographer documenting the crime scene is none other than the ex-fiancée of Finlay’s hot cop boyfriend Nick. The only bright spot is that no one seems to know about Finlay’s altercation with Stacey, except Finlay’s loyal nanny, Vero, who’s hiding a combustible secret of her own. As the missing persons investigation escalates to a possible homicide, Finlay and Nick become the top suspects when a dogged detective learns Nick had beef with Stacey too. Determined to get him off their back, Finlay, Nick, and Vero discover more than they bargained for when they launch their own investigation into Stacey’s disappearance—their quiet suburban street is a tinderbox of scandals, blackmail, and lies, and the former president of the neighborhood watch could be holding a lit match . . . Pitted against a mountain of evidence against them—and backstabbing neighbors with plenty to hide—Finlay and Nick are in a race against the cops to solve Stacey’s case before they both go down for the crime.",
-   "publisher": null,
-   "isbn13": "9781250337634",
-   "cover": "covers/9781250337634.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 83,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9780063439801",
-   "work": "h2652830",
-   "title": "Royal Witch",
-   "subtitle": "A Novel",
-   "author": "Philippa Gregory",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-20",
-   "release_precision": "day",
-   "genres": [
-    "Crime"
-   ],
-   "desc": "Eleanor Cobham arrived at court with nothing — her greatest hope was simply to marry well. But her ambition carried her further than any woman before her had dared. She wanted to rule her own destiny. To rule England itself. They say she summoned the devil himself to secure her fate. They say she plotted to murder a king. Now, it's time to finally hear her story. This is the tale of the woman they called witch. Who would have called herself queen.",
-   "publisher": null,
-   "isbn13": "9780063439801",
-   "cover": "covers/9780063439801.jpg",
-   "labels": [
-    "Popular in Crime"
-   ],
-   "rank": 84,
+   "rank": 75,
    "sources": [
     "hc"
    ]
@@ -2266,32 +2020,113 @@
    "labels": [
     "Popular in Dark Fantasy"
    ],
-   "rank": 85,
+   "rank": 76,
    "sources": [
     "hc"
    ]
   },
   {
-   "id": "9781408736678",
-   "work": "h2598476",
-   "title": "Obsidian Sky",
+   "id": "9781969673221",
+   "work": "h2473287",
+   "title": "Love, Politics, and Other Acts of War",
    "subtitle": null,
-   "author": "Clive Cussler",
+   "author": "M.H. Foster",
    "series": null,
    "series_no": null,
-   "release": "2026-11-03",
+   "release": "2026-10-20",
+   "release_precision": "day",
+   "genres": [
+    "Horror",
+    "Literary Fiction",
+    "Fantasy"
+   ],
+   "desc": "After centuries of conquering kingdoms and terrifying the cosmos, the Demon Overlord just wants to retire in peace. But when one dangerous succubus and a couple of feuding barons come to the small town of Lower Middleton, peace is hellishly hard to find. Now Willem Porter (definitely not Galornus Prime, destroyer of worlds) must navigate enchanted pickles, noble politics, and the delicate art of staying out of trouble. All while pretending he’s just a humble turnip farmer, with a perfectly normal goat. Love, Politics, and Other Acts of War is a cozy, laugh-out-loud fantasy of infernal bureaucracy, reluctant heroism, and small-town chaos. Perfect for fans of Legends & Lattes , Good Omens , and anyone who likes their comfort reads served with sarcasm, tea, and a touch of demonic meddling.",
+   "publisher": null,
+   "isbn13": "9781969673221",
+   "cover": "covers/9781969673221.jpg",
+   "labels": [
+    "Popular in Horror",
+    "Popular in Literary Fiction"
+   ],
+   "rank": 77,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9780063439801",
+   "work": "h2652830",
+   "title": "Royal Witch",
+   "subtitle": "A Novel",
+   "author": "Philippa Gregory",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-20",
+   "release_precision": "day",
+   "genres": [
+    "Crime"
+   ],
+   "desc": "Eleanor Cobham arrived at court with nothing — her greatest hope was simply to marry well. But her ambition carried her further than any woman before her had dared. She wanted to rule her own destiny. To rule England itself. They say she summoned the devil himself to secure her fate. They say she plotted to murder a king. Now, it's time to finally hear her story. This is the tale of the woman they called witch. Who would have called herself queen.",
+   "publisher": null,
+   "isbn13": "9780063439801",
+   "cover": "covers/9780063439801.jpg",
+   "labels": [
+    "Popular in Crime"
+   ],
+   "rank": 78,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781770418912",
+   "work": "h2575841",
+   "title": "Our Infinite and Inevitable Ends",
+   "subtitle": null,
+   "author": "A.D. Sui",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-27",
+   "release_precision": "day",
+   "genres": [
+    "Literary Fiction",
+    "Sci-Fi",
+    "Queer"
+   ],
+   "desc": "On a near-future Earth devastated by climate change, Dr. Cassandra Barlowe is right where she wants to be: working on an island of floating trash in the middle of the Pacific Ocean, as far away from Dr. Yana Gulsvig as possible. Cas’s research on plastic-dissolving fungi is undervalued and underfunded, thanks to the invention of deleria, a drug that allows glimpses into different timelines. For the average user, it’s a way to view lost loved ones or experience a different life, but it also offers a glimpse into worlds where humanity has solved its many global crises. Now, most science funding is dedicated to trawling these different timelines, searching for a reality with the solution to the climate devastation. But when Yana — the world’s leading expert on deleria and Cassandra’s ex-lover — is killed in a mysterious explosion in the hub of deleria research, taking the hope of reversing climate change with her, Cas is arrested on charges of domestic terrorism. Cas must delve through timelines to piece together what happened, while watching other versions of herself and Yana live out the life they could have had — happier, more in love.",
+   "publisher": null,
+   "isbn13": "9781770418912",
+   "cover": "covers/9781770418912.jpg",
+   "labels": [
+    "Popular in Literary Fiction",
+    "Popular in Sci-Fi"
+   ],
+   "rank": 79,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9788409834631",
+   "work": "h2526123",
+   "title": "Hydra",
+   "subtitle": null,
+   "author": "Irene Nortes",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-20",
    "release_precision": "day",
    "genres": [
     "Thriller"
    ],
-   "desc": "A forgotten civilization. A lost Biblical artifact. A criminal enterprise lurking beneath the seas. What links them with a potential cataclysmic event that threatens all of humanity? That’s the question facing Dirk Pitt in this latest electrifying novel in the beloved New York Times bestselling series created by the “grand master of adventure” Clive Cussler. When National Underwater and Marine Agency director Dirk Pitt rescues a team of archaeologists trapped in a cavern by an earthquake, an unexpected artifact is discovered that rewrites history. A two-thousand-year-old silver scroll contains a message in a language more ancient than Phoenician and offering clues to a priceless treasure from antiquity. While they work to decipher the message, another mystery arises. A freighter has disappeared without a trace in the Mediterranean. When Pitt and his partner Al Giordino find the wreck, they discover that the cargo—a large scale particle accelerator capable of creating plutonium and radioisotopes—is missing. In the wrong hands, its use could spell disaster for Western civilization. It’s only the first step in a perilous journey to uncover a trail of drugs, deceit, secret technology, and a conspiracy that threatens the planet. From a desperate car chase in the hills of Sicily, to a wild escape on a Spanish river, to a harrowing ride on an underground boring machine, the race begins to connect the pieces in a puzzle with very ancient roots but deadly modern consequences.",
+   "desc": "Una historia sobre descubrir que nunca es tarde para empezar de nuevo. Helena ha aprendido a vivir con el corazón en silencio. A sus veinticinco años tiene una vida perfecta, un trabajo estable en la empresa familiar, una rutina medida al milímetro y un futuro que, sobre el papel, no deja espacio al error. Pero por dentro algo en ella se está resquebrajando. El insomnio, la ansiedad y una sensación persistente de vacío empiezan a derrumbar el control que tanto se esfuerza en mantener. Cuando aparecen una serie de inexplicables señales, decide viajar a Hydra, una diminuta isla griega suspendida sobre el mar Egeo donde, impulsada por una mezcla de curiosidad e intuición, un enigmático gato que llevaba tiempo esperándola la guiará. Lo que comienza como una simple escapada vacacional se irá transformando, a medida que pasan los días, en un viaje lleno de misterios por resolver y rincones que parecen susurrar secretos. El amor, la luz y la verdad se cruzarán en su camino, y Helena tendrá que decidir si quiere seguir huyendo o pararse a recordar quién era antes del miedo. ENGLISH DESCRIPTION A story about discovering that it's never too late to begin again. At twenty-five, Helena appears to have a perfect life: a stable job in the family business, a routine measured to the millimeter, and a future that, on paper, leaves no room for mistakes. But beneath the surface, her carefully controlled world is starting to fracture.",
    "publisher": null,
-   "isbn13": "9781408736678",
-   "cover": "covers/9781408736678.jpg",
+   "isbn13": "9788409834631",
+   "cover": "covers/9788409834631.jpg",
    "labels": [
     "Popular in Thriller"
    ],
-   "rank": 86,
+   "rank": 80,
    "sources": [
     "hc"
    ]
@@ -2318,7 +2153,59 @@
    "labels": [
     "Popular in Dark Fantasy"
    ],
-   "rank": 87,
+   "rank": 81,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781408736678",
+   "work": "h2598476",
+   "title": "Obsidian Sky",
+   "subtitle": null,
+   "author": "Clive Cussler",
+   "series": null,
+   "series_no": null,
+   "release": "2026-11-03",
+   "release_precision": "day",
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "desc": "A forgotten civilization. A lost Biblical artifact. A criminal enterprise lurking beneath the seas. What links them with a potential cataclysmic event that threatens all of humanity? That’s the question facing Dirk Pitt in this latest electrifying novel in the beloved New York Times bestselling series created by the “grand master of adventure” Clive Cussler. When National Underwater and Marine Agency director Dirk Pitt rescues a team of archaeologists trapped in a cavern by an earthquake, an unexpected artifact is discovered that rewrites history. A two-thousand-year-old silver scroll contains a message in a language more ancient than Phoenician and offering clues to a priceless treasure from antiquity. While they work to decipher the message, another mystery arises. A freighter has disappeared without a trace in the Mediterranean. When Pitt and his partner Al Giordino find the wreck, they discover that the cargo—a large scale particle accelerator capable of creating plutonium and radioisotopes—is missing. In the wrong hands, its use could spell disaster for Western civilization. It’s only the first step in a perilous journey to uncover a trail of drugs, deceit, secret technology, and a conspiracy that threatens the planet. From a desperate car chase in the hills of Sicily, to a wild escape on a Spanish river, to a harrowing ride on an underground boring machine, the race begins to connect the pieces in a puzzle with very ancient roots but deadly modern consequences.",
+   "publisher": null,
+   "isbn13": "9781408736678",
+   "cover": "covers/9781408736678.jpg",
+   "labels": [
+    "Popular in Thriller",
+    "Popular in Crime"
+   ],
+   "rank": 82,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781718504813",
+   "work": "h2558344",
+   "title": "The Secret Life of Circuits",
+   "subtitle": "An Illustrated Guide to Electronic Circuit Design",
+   "author": "Michal Zalewski",
+   "series": null,
+   "series_no": null,
+   "release": "2026-10-20",
+   "release_precision": "day",
+   "genres": [
+    "Nonfiction"
+   ],
+   "desc": "Electronic circuit design, drawn by hand and explained from first principles. The Secret Life of Circuits teaches electronic circuit design the way a working engineer actually thinks about it: starting with the physics, using math where it earns its place, the workbench never far away. Across nearly 300 hand-drawn color illustrations, Michal Zalewski builds intuition from the ground up, showing how electrons move through conductors and semiconductors, what’s really going on inside op-amps and current mirrors, how digital logic works at the gate level, and how to carry a design from schematic through PCB fabrication to working firmware. Photographed experiments. Real component behavior. The practical problems that show up in your own designs. Just the right balance of practice and theory: no Laplace transforms and no plumbing analogies.",
+   "publisher": null,
+   "isbn13": "9781718504813",
+   "cover": "covers/9781718504813.jpg",
+   "labels": [
+    "Popular in Nonfiction"
+   ],
+   "rank": 83,
    "sources": [
     "hc"
    ]
@@ -2344,7 +2231,60 @@
    "labels": [
     "Popular in Gothic"
    ],
-   "rank": 88,
+   "rank": 84,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9781982176587",
+   "work": "h2694172",
+   "title": "Ears",
+   "subtitle": null,
+   "author": "Stephen Graham Jones",
+   "series": null,
+   "series_no": null,
+   "release": "2027-03-09",
+   "release_precision": "day",
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "desc": "Then he arrives at the Messner House. When a confrontation turns deadly, Morning Gun is saved by the ghost of a missing child—a girl in lavender footie pajamas who has never truly left her family's home. What begins as a rescue soon becomes something far stranger. The girl is fiercely protective of the house, and anyone who threatens to occupy it meets a violent end. As Morning Gun becomes the sole living person welcome within its walls, he finds himself drawn deeper into the house's history, its desires. A haunting story of belonging, isolation, and the dangerous pull of home, Ears is Stephen Graham Jones at his most intimate and unnerving.",
+   "publisher": null,
+   "isbn13": "9781982176587",
+   "cover": "covers/9781982176587.jpg",
+   "labels": [
+    "Popular in Horror",
+    "Popular in Thriller"
+   ],
+   "rank": 85,
+   "sources": [
+    "hc"
+   ]
+  },
+  {
+   "id": "9780802168665",
+   "work": "h2578652",
+   "title": "Fabrications",
+   "subtitle": null,
+   "author": "Zachary Mason",
+   "series": null,
+   "series_no": null,
+   "release": "2026-12-01",
+   "release_precision": "day",
+   "genres": [
+    "Literary Fiction",
+    "Sci-Fi"
+   ],
+   "desc": "Far-sighted, darkly amusing, and haunting, Fabrications is a dazzling work of literary imagination told from the perspectives of various powerful artificial intelligences, influenced by Borges and Calvino, and for readers of Kazuo Ishiguro and Emily St. John Mandel In Fabrications, New York Times bestselling author and computer scientist Zachary Mason tells stories of an all-too-plausible near-future world molded and mediated by advanced artificial intelligence. Benevolent by design, literal by nature, and immensely powerful when unchained, these are not the chatbots of today’s world, but rather highly evolved yet surprisingly vulnerable beings who permeate nearly all aspects of human life. Their fates inexorably wrapped around those of the people they serve, the AIs communicate in milliseconds but watch the sweep of time unfold from the detached watchtower of immortality. The revelations Mason conjures from within these beings’ perspectives are brilliantly crafted and strikingly relevant. In “Kami”, AIs are assigned to represent natural phenomena, giving nature legal personhood and setting off a chain of high-stakes consequences. In “Ouroboros”, a hedge fund manager unleashes his AI from the usual constraints, allowing it to make him billions of dollars—when he dies, the program clones him several times over the centuries like a familiar left without a companion.",
+   "publisher": null,
+   "isbn13": "9780802168665",
+   "cover": "covers/9780802168665.jpg",
+   "labels": [
+    "Popular in Sci-Fi"
+   ],
+   "rank": 86,
    "sources": [
     "hc"
    ]
@@ -2369,57 +2309,7 @@
    "labels": [
     "Popular in Nonfiction"
    ],
-   "rank": 89,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9798217154456",
-   "work": "h2564631",
-   "title": "Anti-Fascist Economics",
-   "subtitle": "In Defense of Affordability, Dignity, and Democracy",
-   "author": "Isabella Weber",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-13",
-   "release_precision": "day",
-   "genres": [
-    "Nonfiction"
-   ],
-   "desc": "On the night of President Trump's second presidential victory, economist Isabella Weber tweeted: \"Can we now finally have a serious conversation about an anti-fascist economics?\" In her view, Democrats had missed the seriousness of the affordability crisis in the wake of pandemic-era inflation. By refusing to step in to protect their constituencies against price explosions in essentials and corporate profiteering, they left room amidst the global crisis for the resurgence of the politics of resentment that Trump and the right reveled in. Her question, though, was a bold one with implications that reached far beyond one election. In a neoliberal world, we tell people at the same time: Democracy is the highest form of political organization. And: When it comes to the economy, to the material foundation of our life, the best the representatives of the people can do is to subordinate their constituencies to the corporate pursuit of profits. This basic contradiction between the rule of the people and the rule of the market makes neoliberal democracy vulnerable to the threat of fascism, she argues. Economists have too often acted as prophets of market subordination and ended up waxing the slippery slope to fascism.",
-   "publisher": null,
-   "isbn13": "9798217154456",
-   "cover": "covers/9798217154456.jpg",
-   "labels": [
-    "Popular in Nonfiction"
-   ],
-   "rank": 90,
-   "sources": [
-    "hc"
-   ]
-  },
-  {
-   "id": "9781718504813",
-   "work": "h2558344",
-   "title": "The Secret Life of Circuits",
-   "subtitle": "An Illustrated Guide to Electronic Circuit Design",
-   "author": "Michal Zalewski",
-   "series": null,
-   "series_no": null,
-   "release": "2026-10-20",
-   "release_precision": "day",
-   "genres": [
-    "Nonfiction"
-   ],
-   "desc": "Electronic circuit design, drawn by hand and explained from first principles. The Secret Life of Circuits teaches electronic circuit design the way a working engineer actually thinks about it: starting with the physics, using math where it earns its place, the workbench never far away. Across nearly 300 hand-drawn color illustrations, Michal Zalewski builds intuition from the ground up, showing how electrons move through conductors and semiconductors, what’s really going on inside op-amps and current mirrors, how digital logic works at the gate level, and how to carry a design from schematic through PCB fabrication to working firmware. Photographed experiments. Real component behavior. The practical problems that show up in your own designs. Just the right balance of practice and theory: no Laplace transforms and no plumbing analogies.",
-   "publisher": null,
-   "isbn13": "9781718504813",
-   "cover": "covers/9781718504813.jpg",
-   "labels": [
-    "Popular in Nonfiction"
-   ],
-   "rank": 91,
+   "rank": 87,
    "sources": [
     "hc"
    ]
